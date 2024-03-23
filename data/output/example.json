@@ -1,0 +1,5512 @@
+[
+    {
+        "nickname": "Ninja",
+        "followers": 19021767,
+        "language": "English",
+        "averageViewers": 5246,
+        "hoursWatched": 586257,
+        "followersGained": 2726,
+        "peakViewers": 18700,
+        "hoursStreamed": 111,
+        "streams": 18,
+        "gamesPlayed": [
+            {
+                "gameName": "Fortnite",
+                "streamTime": 62,
+                "totalWatchTime": 458329,
+                "averageViewers": 6026,
+                "peakViewers": 17491
+            },
+            {
+                "gameName": "FINAL FANTASY VII REBIRTH",
+                "streamTime": 45,
+                "totalWatchTime": 140189,
+                "averageViewers": 3504,
+                "peakViewers": 6985
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 5,
+                "totalWatchTime": 6256,
+                "averageViewers": 1076,
+                "peakViewers": 1613
+            }
+        ]
+    },
+    {
+        "nickname": "auronplay",
+        "followers": 16198714,
+        "language": "Spanish",
+        "averageViewers": 51460,
+        "hoursWatched": 4438450,
+        "followersGained": 51616,
+        "peakViewers": 92307,
+        "hoursStreamed": 86,
+        "streams": 19,
+        "gamesPlayed": [
+            {
+                "gameName": "Grand Theft Auto V",
+                "streamTime": 61,
+                "totalWatchTime": 3683776,
+                "averageViewers": 61086,
+                "peakViewers": 89588
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 13,
+                "totalWatchTime": 331455,
+                "averageViewers": 22789,
+                "peakViewers": 81213
+            },
+            {
+                "gameName": "Fortnite",
+                "streamTime": 3,
+                "totalWatchTime": 142226,
+                "averageViewers": 37927,
+                "peakViewers": 41877
+            },
+            {
+                "gameName": "FINAL FANTASY VII REBIRTH",
+                "streamTime": 2,
+                "totalWatchTime": 62068,
+                "averageViewers": 27585,
+                "peakViewers": 36920
+            },
+            {
+                "gameName": "The Outlast Trials",
+                "streamTime": 2,
+                "totalWatchTime": 74784,
+                "averageViewers": 33237,
+                "peakViewers": 36446
+            },
+            {
+                "gameName": "BATTLE CRUSH",
+                "streamTime": 2,
+                "totalWatchTime": 53521,
+                "averageViewers": 26760,
+                "peakViewers": 31231
+            },
+            {
+                "gameName": "Special Events",
+                "streamTime": 1,
+                "totalWatchTime": 61784,
+                "averageViewers": 61784,
+                "peakViewers": 64632
+            },
+            {
+                "gameName": "Fall Guys",
+                "streamTime": 0,
+                "totalWatchTime": 28864,
+                "averageViewers": 57728,
+                "peakViewers": 60914
+            }
+        ]
+    },
+    {
+        "nickname": "ibai",
+        "followers": 15526853,
+        "language": "Spanish",
+        "averageViewers": 54723,
+        "hoursWatched": 6963580,
+        "followersGained": 96232,
+        "peakViewers": 798288,
+        "hoursStreamed": 127,
+        "streams": 28,
+        "gamesPlayed": [
+            {
+                "gameName": "League of Legends",
+                "streamTime": 45,
+                "totalWatchTime": 2517683,
+                "averageViewers": 49740,
+                "peakViewers": 133399
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 25,
+                "totalWatchTime": 596828,
+                "averageViewers": 16895,
+                "peakViewers": 43926
+            },
+            {
+                "gameName": "VALORANT",
+                "streamTime": 18,
+                "totalWatchTime": 757474,
+                "averageViewers": 41829,
+                "peakViewers": 71741
+            },
+            {
+                "gameName": "Supermarket Simulator",
+                "streamTime": 8,
+                "totalWatchTime": 215317,
+                "averageViewers": 25321,
+                "peakViewers": 29787
+            },
+            {
+                "gameName": "Sports",
+                "streamTime": 8,
+                "totalWatchTime": 244898,
+                "averageViewers": 29714,
+                "peakViewers": 69034
+            },
+            {
+                "gameName": "Plants vs. Zombies",
+                "streamTime": 4,
+                "totalWatchTime": 144409,
+                "averageViewers": 28698,
+                "peakViewers": 35637
+            },
+            {
+                "gameName": "Special Events",
+                "streamTime": 4,
+                "totalWatchTime": 2216595,
+                "averageViewers": 554148,
+                "peakViewers": 755698
+            },
+            {
+                "gameName": "Plants vs. Zombies",
+                "streamTime": 4,
+                "totalWatchTime": 123308,
+                "averageViewers": 30827,
+                "peakViewers": 35575
+            },
+            {
+                "gameName": "Supermarket Simulator",
+                "streamTime": 3,
+                "totalWatchTime": 104234,
+                "averageViewers": 30068,
+                "peakViewers": 37701
+            },
+            {
+                "gameName": "The Stanley Parable",
+                "streamTime": 2,
+                "totalWatchTime": 60853,
+                "averageViewers": 27045,
+                "peakViewers": 34112
+            },
+            {
+                "gameName": "Contraband Police",
+                "streamTime": 2,
+                "totalWatchTime": 42005,
+                "averageViewers": 18668,
+                "peakViewers": 19970
+            },
+            {
+                "gameName": "Taxi Life: A City Driving Simulator",
+                "streamTime": 1,
+                "totalWatchTime": 45931,
+                "averageViewers": 26246,
+                "peakViewers": 26938
+            },
+            {
+                "gameName": "Euro Truck Simulator 2",
+                "streamTime": 1,
+                "totalWatchTime": 56208,
+                "averageViewers": 32119,
+                "peakViewers": 33396
+            },
+            {
+                "gameName": "The Exit 8",
+                "streamTime": 1,
+                "totalWatchTime": 25106,
+                "averageViewers": 20084,
+                "peakViewers": 24837
+            },
+            {
+                "gameName": "Plants vs. Zombies 3: Welcome to Zomburbia",
+                "streamTime": 0,
+                "totalWatchTime": 6249,
+                "averageViewers": 24998,
+                "peakViewers": 24998
+            }
+        ]
+    },
+    {
+        "nickname": "Rubius",
+        "followers": 14897554,
+        "language": "Spanish",
+        "averageViewers": 19936,
+        "hoursWatched": 2516962,
+        "followersGained": 48484,
+        "peakViewers": 48554,
+        "hoursStreamed": 126,
+        "streams": 22,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 30,
+                "totalWatchTime": 420961,
+                "averageViewers": 13002,
+                "peakViewers": 31547
+            },
+            {
+                "gameName": "Supermarket Simulator",
+                "streamTime": 23,
+                "totalWatchTime": 621494,
+                "averageViewers": 26717,
+                "peakViewers": 45884
+            },
+            {
+                "gameName": "Sekiro: Shadows Die Twice",
+                "streamTime": 18,
+                "totalWatchTime": 307546,
+                "averageViewers": 17623,
+                "peakViewers": 32832
+            },
+            {
+                "gameName": "Fortnite",
+                "streamTime": 10,
+                "totalWatchTime": 230781,
+                "averageViewers": 21679,
+                "peakViewers": 34283
+            },
+            {
+                "gameName": "UNDERTALE",
+                "streamTime": 7,
+                "totalWatchTime": 161005,
+                "averageViewers": 20721,
+                "peakViewers": 22765
+            },
+            {
+                "gameName": "ELDEN RING",
+                "streamTime": 7,
+                "totalWatchTime": 144575,
+                "averageViewers": 17852,
+                "peakViewers": 21684
+            },
+            {
+                "gameName": "Hospital 666",
+                "streamTime": 5,
+                "totalWatchTime": 142185,
+                "averageViewers": 25784,
+                "peakViewers": 34610
+            },
+            {
+                "gameName": "Enshrouded",
+                "streamTime": 4,
+                "totalWatchTime": 82243,
+                "averageViewers": 17246,
+                "peakViewers": 20700
+            },
+            {
+                "gameName": "Rise of the Ronin",
+                "streamTime": 2,
+                "totalWatchTime": 49493,
+                "averageViewers": 17997,
+                "peakViewers": 19843
+            },
+            {
+                "gameName": "A Difficult Game About Climbing",
+                "streamTime": 2,
+                "totalWatchTime": 40586,
+                "averageViewers": 20293,
+                "peakViewers": 22022
+            },
+            {
+                "gameName": "Ultimate Epic Battle Simulator 2",
+                "streamTime": 1,
+                "totalWatchTime": 39327,
+                "averageViewers": 26218,
+                "peakViewers": 27987
+            },
+            {
+                "gameName": "98xx",
+                "streamTime": 1,
+                "totalWatchTime": 28637,
+                "averageViewers": 19091,
+                "peakViewers": 20186
+            },
+            {
+                "gameName": "Mega Quiz Gaming",
+                "streamTime": 1,
+                "totalWatchTime": 24618,
+                "averageViewers": 16517,
+                "peakViewers": 18142
+            },
+            {
+                "gameName": "Gamedle",
+                "streamTime": 1,
+                "totalWatchTime": 25907,
+                "averageViewers": 19848,
+                "peakViewers": 25799
+            },
+            {
+                "gameName": "Taxi Life: A City Driving Simulator",
+                "streamTime": 1,
+                "totalWatchTime": 28921,
+                "averageViewers": 23137,
+                "peakViewers": 24134
+            },
+            {
+                "gameName": "Alone in the Dark",
+                "streamTime": 1,
+                "totalWatchTime": 32129,
+                "averageViewers": 26044,
+                "peakViewers": 29178
+            },
+            {
+                "gameName": "ROBLOX",
+                "streamTime": 0,
+                "totalWatchTime": 15309,
+                "averageViewers": 20587,
+                "peakViewers": 21113
+            },
+            {
+                "gameName": "The Board AI",
+                "streamTime": 0,
+                "totalWatchTime": 15291,
+                "averageViewers": 20388,
+                "peakViewers": 21500
+            },
+            {
+                "gameName": "That's Not My Neighbor",
+                "streamTime": 0,
+                "totalWatchTime": 20551,
+                "averageViewers": 27402,
+                "peakViewers": 28089
+            },
+            {
+                "gameName": "Psalm 5:9-13",
+                "streamTime": 0,
+                "totalWatchTime": 21269,
+                "averageViewers": 28359,
+                "peakViewers": 31191
+            },
+            {
+                "gameName": "Escape the Ayuwoki",
+                "streamTime": 0,
+                "totalWatchTime": 15301,
+                "averageViewers": 20401,
+                "peakViewers": 20952
+            },
+            {
+                "gameName": "Atta: Spot the Oddities in the Strange Hotel",
+                "streamTime": 0,
+                "totalWatchTime": 14034,
+                "averageViewers": 18712,
+                "peakViewers": 19104
+            },
+            {
+                "gameName": "Cycle",
+                "streamTime": 0,
+                "totalWatchTime": 10113,
+                "averageViewers": 20227,
+                "peakViewers": 20411
+            },
+            {
+                "gameName": "Superliminal",
+                "streamTime": 0,
+                "totalWatchTime": 9032,
+                "averageViewers": 18065,
+                "peakViewers": 18094
+            },
+            {
+                "gameName": "Don't Pee",
+                "streamTime": 0,
+                "totalWatchTime": 9388,
+                "averageViewers": 18776,
+                "peakViewers": 19144
+            }
+        ]
+    },
+    {
+        "nickname": "xQc",
+        "followers": 11979569,
+        "language": "English",
+        "averageViewers": 31934,
+        "hoursWatched": 1868170,
+        "followersGained": -1336,
+        "peakViewers": 51225,
+        "hoursStreamed": 58,
+        "streams": 18,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 42,
+                "totalWatchTime": 1224585,
+                "averageViewers": 29839,
+                "peakViewers": 46143
+            },
+            {
+                "gameName": "Grand Theft Auto V",
+                "streamTime": 9,
+                "totalWatchTime": 371839,
+                "averageViewers": 38597,
+                "peakViewers": 50932
+            },
+            {
+                "gameName": "A Difficult Game About Climbing",
+                "streamTime": 4,
+                "totalWatchTime": 170742,
+                "averageViewers": 41479,
+                "peakViewers": 45361
+            },
+            {
+                "gameName": "KinitoPET",
+                "streamTime": 1,
+                "totalWatchTime": 72604,
+                "averageViewers": 41488,
+                "peakViewers": 44071
+            },
+            {
+                "gameName": "TEKKEN 8",
+                "streamTime": 1,
+                "totalWatchTime": 42106,
+                "averageViewers": 34616,
+                "peakViewers": 36168
+            },
+            {
+                "gameName": "WWE 2K24",
+                "streamTime": 1,
+                "totalWatchTime": 37544,
+                "averageViewers": 37544,
+                "peakViewers": 39451
+            },
+            {
+                "gameName": "ROBLOX",
+                "streamTime": 1,
+                "totalWatchTime": 41420,
+                "averageViewers": 41420,
+                "peakViewers": 42661
+            },
+            {
+                "gameName": "Buckshot Roulette",
+                "streamTime": 0,
+                "totalWatchTime": 29824,
+                "averageViewers": 39765,
+                "peakViewers": 42351
+            },
+            {
+                "gameName": "Backpack Battles",
+                "streamTime": 0,
+                "totalWatchTime": 13002,
+                "averageViewers": 26004,
+                "peakViewers": 26286
+            },
+            {
+                "gameName": "Rocket League",
+                "streamTime": 0,
+                "totalWatchTime": 17694,
+                "averageViewers": 35389,
+                "peakViewers": 36262
+            },
+            {
+                "gameName": "Psalm 5:9-13",
+                "streamTime": 0,
+                "totalWatchTime": 20615,
+                "averageViewers": 41230,
+                "peakViewers": 41341
+            },
+            {
+                "gameName": "Counter-Strike",
+                "streamTime": 0,
+                "totalWatchTime": 8557,
+                "averageViewers": 34228,
+                "peakViewers": 34228
+            }
+        ]
+    },
+    {
+        "nickname": "TheGrefg",
+        "followers": 11890228,
+        "language": "Spanish",
+        "averageViewers": 8518,
+        "hoursWatched": 728371,
+        "followersGained": 12016,
+        "peakViewers": 26090,
+        "hoursStreamed": 85,
+        "streams": 25,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 29,
+                "totalWatchTime": 181528,
+                "averageViewers": 5741,
+                "peakViewers": 20508
+            },
+            {
+                "gameName": "EA Sports FC 24",
+                "streamTime": 18,
+                "totalWatchTime": 148516,
+                "averageViewers": 7957,
+                "peakViewers": 15273
+            },
+            {
+                "gameName": "Fortnite",
+                "streamTime": 16,
+                "totalWatchTime": 171591,
+                "averageViewers": 9438,
+                "peakViewers": 18188
+            },
+            {
+                "gameName": "Sports",
+                "streamTime": 11,
+                "totalWatchTime": 147456,
+                "averageViewers": 12425,
+                "peakViewers": 24825
+            },
+            {
+                "gameName": "VALORANT",
+                "streamTime": 7,
+                "totalWatchTime": 57510,
+                "averageViewers": 7782,
+                "peakViewers": 16726
+            },
+            {
+                "gameName": "F1 23",
+                "streamTime": 2,
+                "totalWatchTime": 30765,
+                "averageViewers": 11187,
+                "peakViewers": 14142
+            },
+            {
+                "gameName": "FINAL FANTASY VII REBIRTH",
+                "streamTime": 2,
+                "totalWatchTime": 11656,
+                "averageViewers": 4238,
+                "peakViewers": 5718
+            },
+            {
+                "gameName": "Chess",
+                "streamTime": 0,
+                "totalWatchTime": 1743,
+                "averageViewers": 6972,
+                "peakViewers": 6972
+            }
+        ]
+    },
+    {
+        "nickname": "Tfue",
+        "followers": 11399646,
+        "language": "English",
+        "averageViewers": 2840,
+        "hoursWatched": 2130,
+        "followersGained": -112,
+        "peakViewers": 4401,
+        "hoursStreamed": 0,
+        "streams": 1,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 0,
+                "totalWatchTime": 2130,
+                "averageViewers": 2840,
+                "peakViewers": 4237
+            }
+        ]
+    },
+    {
+        "nickname": "juansguarnizo",
+        "followers": 11185630,
+        "language": "Spanish",
+        "averageViewers": 8857,
+        "hoursWatched": 1089435,
+        "followersGained": 17078,
+        "peakViewers": 29144,
+        "hoursStreamed": 123,
+        "streams": 17,
+        "gamesPlayed": [
+            {
+                "gameName": "Grand Theft Auto V",
+                "streamTime": 44,
+                "totalWatchTime": 313828,
+                "averageViewers": 7050,
+                "peakViewers": 10737
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 30,
+                "totalWatchTime": 224249,
+                "averageViewers": 7409,
+                "peakViewers": 20420
+            },
+            {
+                "gameName": "Sports",
+                "streamTime": 26,
+                "totalWatchTime": 427932,
+                "averageViewers": 14637,
+                "peakViewers": 25612
+            },
+            {
+                "gameName": "EA Sports FC 24",
+                "streamTime": 7,
+                "totalWatchTime": 38701,
+                "averageViewers": 5528,
+                "peakViewers": 9107
+            },
+            {
+                "gameName": "Resident Evil 6",
+                "streamTime": 4,
+                "totalWatchTime": 24044,
+                "averageViewers": 5883,
+                "peakViewers": 7432
+            },
+            {
+                "gameName": "Supermarket Simulator",
+                "streamTime": 3,
+                "totalWatchTime": 19032,
+                "averageViewers": 5895,
+                "peakViewers": 7475
+            },
+            {
+                "gameName": "Minecraft",
+                "streamTime": 2,
+                "totalWatchTime": 18227,
+                "averageViewers": 7336,
+                "peakViewers": 8019
+            },
+            {
+                "gameName": "That's Not My Neighbor",
+                "streamTime": 2,
+                "totalWatchTime": 18704,
+                "averageViewers": 7481,
+                "peakViewers": 8967
+            },
+            {
+                "gameName": "Call of Duty: Warzone",
+                "streamTime": 2,
+                "totalWatchTime": 11637,
+                "averageViewers": 5204,
+                "peakViewers": 5831
+            },
+            {
+                "gameName": "Pummel Party",
+                "streamTime": 1,
+                "totalWatchTime": 8277,
+                "averageViewers": 5512,
+                "peakViewers": 5596
+            },
+            {
+                "gameName": "Fortnite",
+                "streamTime": 1,
+                "totalWatchTime": 6324,
+                "averageViewers": 6324,
+                "peakViewers": 6546
+            },
+            {
+                "gameName": "Infinite Craft",
+                "streamTime": 0,
+                "totalWatchTime": 4152,
+                "averageViewers": 8305,
+                "peakViewers": 8449
+            },
+            {
+                "gameName": "A Difficult Game About Climbing",
+                "streamTime": 0,
+                "totalWatchTime": 2859,
+                "averageViewers": 5718,
+                "peakViewers": 5850
+            },
+            {
+                "gameName": "Gartic Phone",
+                "streamTime": 0,
+                "totalWatchTime": 1489,
+                "averageViewers": 5956,
+                "peakViewers": 5956
+            }
+        ]
+    },
+    {
+        "nickname": "shroud",
+        "followers": 10823962,
+        "language": "English",
+        "averageViewers": 13099,
+        "hoursWatched": 2960437,
+        "followersGained": 61994,
+        "peakViewers": 53377,
+        "hoursStreamed": 226,
+        "streams": 25,
+        "gamesPlayed": [
+            {
+                "gameName": "Tom Clancy's Rainbow Six Siege",
+                "streamTime": 174,
+                "totalWatchTime": 2451646,
+                "averageViewers": 14154,
+                "peakViewers": 45697
+            },
+            {
+                "gameName": "Last Epoch",
+                "streamTime": 21,
+                "totalWatchTime": 249237,
+                "averageViewers": 10401,
+                "peakViewers": 18834
+            },
+            {
+                "gameName": "Dragon's Dogma II",
+                "streamTime": 16,
+                "totalWatchTime": 189801,
+                "averageViewers": 11775,
+                "peakViewers": 17890
+            },
+            {
+                "gameName": "Nightingale",
+                "streamTime": 11,
+                "totalWatchTime": 189897,
+                "averageViewers": 16786,
+                "peakViewers": 26633
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 10,
+                "totalWatchTime": 66363,
+                "averageViewers": 4744,
+                "peakViewers": 14604
+            },
+            {
+                "gameName": "World of Warcraft",
+                "streamTime": 2,
+                "totalWatchTime": 16715,
+                "averageViewers": 8357,
+                "peakViewers": 9340
+            },
+            {
+                "gameName": "Halo Infinite",
+                "streamTime": 2,
+                "totalWatchTime": 26436,
+                "averageViewers": 13218,
+                "peakViewers": 14069
+            },
+            {
+                "gameName": "VALORANT",
+                "streamTime": 1,
+                "totalWatchTime": 11024,
+                "averageViewers": 11024,
+                "peakViewers": 11245
+            }
+        ]
+    },
+    {
+        "nickname": "ElMariana",
+        "followers": 9451992,
+        "language": "Spanish",
+        "averageViewers": 19358,
+        "hoursWatched": 1316361,
+        "followersGained": 101022,
+        "peakViewers": 33531,
+        "hoursStreamed": 68,
+        "streams": 14,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 28,
+                "totalWatchTime": 469564,
+                "averageViewers": 15673,
+                "peakViewers": 28723
+            },
+            {
+                "gameName": "Call of Duty: Warzone",
+                "streamTime": 4,
+                "totalWatchTime": 102260,
+                "averageViewers": 22593,
+                "peakViewers": 26998
+            },
+            {
+                "gameName": "ROBLOX",
+                "streamTime": 4,
+                "totalWatchTime": 96304,
+                "averageViewers": 21400,
+                "peakViewers": 26560
+            },
+            {
+                "gameName": "Undisputed",
+                "streamTime": 4,
+                "totalWatchTime": 80092,
+                "averageViewers": 18766,
+                "peakViewers": 24374
+            },
+            {
+                "gameName": "Habbo",
+                "streamTime": 4,
+                "totalWatchTime": 71637,
+                "averageViewers": 16587,
+                "peakViewers": 19688
+            },
+            {
+                "gameName": "Games + Demos",
+                "streamTime": 4,
+                "totalWatchTime": 98283,
+                "averageViewers": 21454,
+                "peakViewers": 28196
+            },
+            {
+                "gameName": "Computer Repair Shop",
+                "streamTime": 3,
+                "totalWatchTime": 80185,
+                "averageViewers": 21002,
+                "peakViewers": 23390
+            },
+            {
+                "gameName": "Pumping Simulator 2",
+                "streamTime": 3,
+                "totalWatchTime": 76587,
+                "averageViewers": 23565,
+                "peakViewers": 26871
+            },
+            {
+                "gameName": "Supermarket Simulator",
+                "streamTime": 2,
+                "totalWatchTime": 67022,
+                "averageViewers": 29787,
+                "peakViewers": 32914
+            },
+            {
+                "gameName": "SUPERNORMAL",
+                "streamTime": 1,
+                "totalWatchTime": 31622,
+                "averageViewers": 18069,
+                "peakViewers": 19033
+            },
+            {
+                "gameName": "Apewar",
+                "streamTime": 1,
+                "totalWatchTime": 39368,
+                "averageViewers": 22496,
+                "peakViewers": 23477
+            },
+            {
+                "gameName": "Pacific Drive",
+                "streamTime": 1,
+                "totalWatchTime": 33013,
+                "averageViewers": 22009,
+                "peakViewers": 22457
+            },
+            {
+                "gameName": "That's Not My Neighbor",
+                "streamTime": 1,
+                "totalWatchTime": 37665,
+                "averageViewers": 25110,
+                "peakViewers": 26367
+            },
+            {
+                "gameName": "WWE 2K24",
+                "streamTime": 1,
+                "totalWatchTime": 37468,
+                "averageViewers": 24978,
+                "peakViewers": 27443
+            },
+            {
+                "gameName": "Hospital 666",
+                "streamTime": 1,
+                "totalWatchTime": 24202,
+                "averageViewers": 19361,
+                "peakViewers": 20354
+            },
+            {
+                "gameName": "Fortnite",
+                "streamTime": 1,
+                "totalWatchTime": 26852,
+                "averageViewers": 21482,
+                "peakViewers": 26647
+            },
+            {
+                "gameName": "Storage Hustle",
+                "streamTime": 1,
+                "totalWatchTime": 25110,
+                "averageViewers": 20088,
+                "peakViewers": 24285
+            },
+            {
+                "gameName": "Hand Simulator: Horror",
+                "streamTime": 0,
+                "totalWatchTime": 18411,
+                "averageViewers": 24549,
+                "peakViewers": 25604
+            },
+            {
+                "gameName": "Fall Guys",
+                "streamTime": 0,
+                "totalWatchTime": 6987,
+                "averageViewers": 13974,
+                "peakViewers": 14087
+            }
+        ]
+    },
+    {
+        "nickname": "KaiCenat",
+        "followers": 9421479,
+        "language": "English",
+        "averageViewers": 64656,
+        "hoursWatched": 8292212,
+        "followersGained": 378319,
+        "peakViewers": 216468,
+        "hoursStreamed": 128,
+        "streams": 17,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 105,
+                "totalWatchTime": 7100071,
+                "averageViewers": 58549,
+                "peakViewers": 190653
+            },
+            {
+                "gameName": "The Last of Us Part II: Remastered",
+                "streamTime": 8,
+                "totalWatchTime": 339710,
+                "averageViewers": 42580,
+                "peakViewers": 58117
+            },
+            {
+                "gameName": "A Difficult Game About Climbing",
+                "streamTime": 5,
+                "totalWatchTime": 240446,
+                "averageViewers": 48097,
+                "peakViewers": 61218
+            },
+            {
+                "gameName": "I'm Only Sleeping",
+                "streamTime": 3,
+                "totalWatchTime": 204899,
+                "averageViewers": 54639,
+                "peakViewers": 73603
+            },
+            {
+                "gameName": "Tom Clancy's Rainbow Six Siege",
+                "streamTime": 3,
+                "totalWatchTime": 212235,
+                "averageViewers": 59169,
+                "peakViewers": 84679
+            },
+            {
+                "gameName": "Are You Smarter Than a 5th Grader",
+                "streamTime": 2,
+                "totalWatchTime": 130441,
+                "averageViewers": 52458,
+                "peakViewers": 55783
+            },
+            {
+                "gameName": "Fortnite",
+                "streamTime": 1,
+                "totalWatchTime": 90961,
+                "averageViewers": 49981,
+                "peakViewers": 58603
+            },
+            {
+                "gameName": "Lethal Company",
+                "streamTime": 1,
+                "totalWatchTime": 94145,
+                "averageViewers": 53797,
+                "peakViewers": 56961
+            },
+            {
+                "gameName": "KinitoPET",
+                "streamTime": 1,
+                "totalWatchTime": 67127,
+                "averageViewers": 44751,
+                "peakViewers": 49560
+            },
+            {
+                "gameName": "Fall Guys",
+                "streamTime": 1,
+                "totalWatchTime": 55954,
+                "averageViewers": 44763,
+                "peakViewers": 47903
+            },
+            {
+                "gameName": "Call of Duty: Modern Warfare III",
+                "streamTime": 1,
+                "totalWatchTime": 47414,
+                "averageViewers": 47414,
+                "peakViewers": 49604
+            },
+            {
+                "gameName": "Michael Jackson: The Experience",
+                "streamTime": 0,
+                "totalWatchTime": 22035,
+                "averageViewers": 44070,
+                "peakViewers": 44993
+            },
+            {
+                "gameName": "Wii Sports Resort",
+                "streamTime": 0,
+                "totalWatchTime": 24723,
+                "averageViewers": 49447,
+                "peakViewers": 49757
+            }
+        ]
+    },
+    {
+        "nickname": "pokimane",
+        "followers": 9317666,
+        "language": "English",
+        "averageViewers": 6742,
+        "hoursWatched": 180353,
+        "followersGained": -8289,
+        "peakViewers": 12029,
+        "hoursStreamed": 26,
+        "streams": 6,
+        "gamesPlayed": [
+            {
+                "gameName": "VALORANT",
+                "streamTime": 11,
+                "totalWatchTime": 73708,
+                "averageViewers": 6230,
+                "peakViewers": 7861
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 10,
+                "totalWatchTime": 65620,
+                "averageViewers": 5877,
+                "peakViewers": 11695
+            },
+            {
+                "gameName": "TEKKEN 8",
+                "streamTime": 5,
+                "totalWatchTime": 40632,
+                "averageViewers": 8136,
+                "peakViewers": 9207
+            }
+        ]
+    },
+    {
+        "nickname": "ElSpreen",
+        "followers": 9138375,
+        "language": "Spanish",
+        "averageViewers": 16802,
+        "hoursWatched": 961931,
+        "followersGained": 71732,
+        "peakViewers": 28044,
+        "hoursStreamed": 57,
+        "streams": 15,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 27,
+                "totalWatchTime": 386510,
+                "averageViewers": 13883,
+                "peakViewers": 22115
+            },
+            {
+                "gameName": "Supermarket Simulator",
+                "streamTime": 10,
+                "totalWatchTime": 204704,
+                "averageViewers": 19095,
+                "peakViewers": 24251
+            },
+            {
+                "gameName": "Minecraft",
+                "streamTime": 6,
+                "totalWatchTime": 141361,
+                "averageViewers": 20516,
+                "peakViewers": 25673
+            },
+            {
+                "gameName": "Counter-Strike",
+                "streamTime": 2,
+                "totalWatchTime": 43486,
+                "averageViewers": 15413,
+                "peakViewers": 20935
+            },
+            {
+                "gameName": "Hospital 666",
+                "streamTime": 2,
+                "totalWatchTime": 44405,
+                "averageViewers": 19532,
+                "peakViewers": 21303
+            },
+            {
+                "gameName": "Ragnarok Origin",
+                "streamTime": 2,
+                "totalWatchTime": 18649,
+                "averageViewers": 9435,
+                "peakViewers": 10317
+            },
+            {
+                "gameName": "Chrome Dino",
+                "streamTime": 2,
+                "totalWatchTime": 37426,
+                "averageViewers": 18713,
+                "peakViewers": 20130
+            },
+            {
+                "gameName": "Quién Quiere ser Millonario?",
+                "streamTime": 1,
+                "totalWatchTime": 36183,
+                "averageViewers": 20685,
+                "peakViewers": 21160
+            },
+            {
+                "gameName": "Special Events",
+                "streamTime": 1,
+                "totalWatchTime": 40797,
+                "averageViewers": 24739,
+                "peakViewers": 26737
+            },
+            {
+                "gameName": "Infinite Craft",
+                "streamTime": 1,
+                "totalWatchTime": 25826,
+                "averageViewers": 20661,
+                "peakViewers": 21611
+            },
+            {
+                "gameName": "The Higher Lower Game",
+                "streamTime": 0,
+                "totalWatchTime": 13922,
+                "averageViewers": 18318,
+                "peakViewers": 19683
+            },
+            {
+                "gameName": "ROBLOX",
+                "streamTime": 0,
+                "totalWatchTime": 7069,
+                "averageViewers": 14138,
+                "peakViewers": 16691
+            }
+        ]
+    },
+    {
+        "nickname": "sodapoppin",
+        "followers": 8885340,
+        "language": "English",
+        "averageViewers": 12470,
+        "hoursWatched": 2303860,
+        "followersGained": -1315,
+        "peakViewers": 26135,
+        "hoursStreamed": 184,
+        "streams": 25,
+        "gamesPlayed": [
+            {
+                "gameName": "Backpack Battles",
+                "streamTime": 34,
+                "totalWatchTime": 456455,
+                "averageViewers": 13060,
+                "peakViewers": 18902
+            },
+            {
+                "gameName": "Cyberpunk 2077",
+                "streamTime": 34,
+                "totalWatchTime": 445001,
+                "averageViewers": 13051,
+                "peakViewers": 19500
+            },
+            {
+                "gameName": "ELDEN RING",
+                "streamTime": 24,
+                "totalWatchTime": 261577,
+                "averageViewers": 10896,
+                "peakViewers": 15310
+            },
+            {
+                "gameName": "World of Warcraft",
+                "streamTime": 16,
+                "totalWatchTime": 247263,
+                "averageViewers": 14794,
+                "peakViewers": 19489
+            },
+            {
+                "gameName": "Supermarket Simulator",
+                "streamTime": 13,
+                "totalWatchTime": 223084,
+                "averageViewers": 16600,
+                "peakViewers": 23082
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 12,
+                "totalWatchTime": 62157,
+                "averageViewers": 3629,
+                "peakViewers": 13098
+            },
+            {
+                "gameName": "Risk of Rain 2",
+                "streamTime": 10,
+                "totalWatchTime": 104087,
+                "averageViewers": 10522,
+                "peakViewers": 12569
+            },
+            {
+                "gameName": "Last Epoch",
+                "streamTime": 5,
+                "totalWatchTime": 64986,
+                "averageViewers": 11759,
+                "peakViewers": 13156
+            },
+            {
+                "gameName": "Dark and Darker",
+                "streamTime": 3,
+                "totalWatchTime": 56182,
+                "averageViewers": 14981,
+                "peakViewers": 16414
+            },
+            {
+                "gameName": "Spiritfall",
+                "streamTime": 3,
+                "totalWatchTime": 40693,
+                "averageViewers": 12302,
+                "peakViewers": 13564
+            },
+            {
+                "gameName": "Pacific Drive",
+                "streamTime": 2,
+                "totalWatchTime": 28702,
+                "averageViewers": 10437,
+                "peakViewers": 12474
+            },
+            {
+                "gameName": "Balatro",
+                "streamTime": 2,
+                "totalWatchTime": 24108,
+                "averageViewers": 10408,
+                "peakViewers": 12239
+            },
+            {
+                "gameName": "HELLDIVERS 2",
+                "streamTime": 1,
+                "totalWatchTime": 19050,
+                "averageViewers": 10886,
+                "peakViewers": 11151
+            },
+            {
+                "gameName": "Warcraft III",
+                "streamTime": 1,
+                "totalWatchTime": 16795,
+                "averageViewers": 9597,
+                "peakViewers": 10070
+            },
+            {
+                "gameName": "Antipaint",
+                "streamTime": 1,
+                "totalWatchTime": 30500,
+                "averageViewers": 17428,
+                "peakViewers": 19079
+            },
+            {
+                "gameName": "For the King II",
+                "streamTime": 1,
+                "totalWatchTime": 12762,
+                "averageViewers": 10209,
+                "peakViewers": 10714
+            },
+            {
+                "gameName": "Cricket Through the Ages",
+                "streamTime": 1,
+                "totalWatchTime": 13304,
+                "averageViewers": 13304,
+                "peakViewers": 14403
+            },
+            {
+                "gameName": "Scary Psycho Lady Simulator",
+                "streamTime": 1,
+                "totalWatchTime": 12119,
+                "averageViewers": 12119,
+                "peakViewers": 12715
+            },
+            {
+                "gameName": "Bloody Hallowfest",
+                "streamTime": 1,
+                "totalWatchTime": 15490,
+                "averageViewers": 15665,
+                "peakViewers": 16114
+            },
+            {
+                "gameName": "Rumble Club",
+                "streamTime": 0,
+                "totalWatchTime": 9185,
+                "averageViewers": 12247,
+                "peakViewers": 12880
+            },
+            {
+                "gameName": "Hoofobia",
+                "streamTime": 0,
+                "totalWatchTime": 9546,
+                "averageViewers": 12728,
+                "peakViewers": 13238
+            },
+            {
+                "gameName": "Please, Touch The Artwork 2",
+                "streamTime": 0,
+                "totalWatchTime": 7478,
+                "averageViewers": 9970,
+                "peakViewers": 10307
+            },
+            {
+                "gameName": "Time to Strike",
+                "streamTime": 0,
+                "totalWatchTime": 8092,
+                "averageViewers": 10789,
+                "peakViewers": 11060
+            },
+            {
+                "gameName": "Star Wars Battlefront II",
+                "streamTime": 0,
+                "totalWatchTime": 10601,
+                "averageViewers": 14135,
+                "peakViewers": 14857
+            },
+            {
+                "gameName": "Witch It",
+                "streamTime": 0,
+                "totalWatchTime": 8698,
+                "averageViewers": 11597,
+                "peakViewers": 12052
+            }
+        ]
+    },
+    {
+        "nickname": "Heelmike",
+        "followers": 7429524,
+        "language": "English",
+        "averageViewers": 0,
+        "hoursWatched": 0,
+        "followersGained": 0,
+        "peakViewers": 0,
+        "hoursStreamed": 0,
+        "streams": 0,
+        "gamesPlayed": null
+    },
+    {
+        "nickname": "tommyinnit",
+        "followers": 7382606,
+        "language": "English",
+        "averageViewers": 2721,
+        "hoursWatched": 8165,
+        "followersGained": -4263,
+        "peakViewers": 5658,
+        "hoursStreamed": 3,
+        "streams": 3,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 3,
+                "totalWatchTime": 8166,
+                "averageViewers": 2843,
+                "peakViewers": 5415
+            }
+        ]
+    },
+    {
+        "nickname": "Clix",
+        "followers": 7338043,
+        "language": "English",
+        "averageViewers": 19472,
+        "hoursWatched": 2463229,
+        "followersGained": 183770,
+        "peakViewers": 130208,
+        "hoursStreamed": 126,
+        "streams": 18,
+        "gamesPlayed": [
+            {
+                "gameName": "Fortnite",
+                "streamTime": 98,
+                "totalWatchTime": 2022887,
+                "averageViewers": 18131,
+                "peakViewers": 116229
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 34,
+                "totalWatchTime": 545696,
+                "averageViewers": 18310,
+                "peakViewers": 29630
+            },
+            {
+                "gameName": "I'm Only Sleeping",
+                "streamTime": 3,
+                "totalWatchTime": 18383,
+                "averageViewers": 6127,
+                "peakViewers": 6923
+            }
+        ]
+    },
+    {
+        "nickname": "Myth",
+        "followers": 7446663,
+        "language": "English",
+        "averageViewers": 0,
+        "hoursWatched": 0,
+        "followersGained": 0,
+        "peakViewers": 0,
+        "hoursStreamed": 0,
+        "streams": 0,
+        "gamesPlayed": null
+    },
+    {
+        "nickname": "AdinRoss",
+        "followers": 7251801,
+        "language": "English",
+        "averageViewers": 0,
+        "hoursWatched": 0,
+        "followersGained": 0,
+        "peakViewers": 0,
+        "hoursStreamed": 0,
+        "streams": 0,
+        "gamesPlayed": null
+    },
+    {
+        "nickname": "alanzoka",
+        "followers": 6992779,
+        "language": "Portuguese",
+        "averageViewers": 16867,
+        "hoursWatched": 2319340,
+        "followersGained": 43793,
+        "peakViewers": 27820,
+        "hoursStreamed": 137,
+        "streams": 19,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 21,
+                "totalWatchTime": 221350,
+                "averageViewers": 9961,
+                "peakViewers": 21442
+            },
+            {
+                "gameName": "Pacific Drive",
+                "streamTime": 18,
+                "totalWatchTime": 274533,
+                "averageViewers": 15905,
+                "peakViewers": 21144
+            },
+            {
+                "gameName": "Sons of the Forest",
+                "streamTime": 13,
+                "totalWatchTime": 293922,
+                "averageViewers": 21109,
+                "peakViewers": 24088
+            },
+            {
+                "gameName": "A Difficult Game About Climbing",
+                "streamTime": 10,
+                "totalWatchTime": 245652,
+                "averageViewers": 23549,
+                "peakViewers": 27624
+            },
+            {
+                "gameName": "Dragon's Dogma II",
+                "streamTime": 10,
+                "totalWatchTime": 174798,
+                "averageViewers": 17892,
+                "peakViewers": 25505
+            },
+            {
+                "gameName": "HELLDIVERS 2",
+                "streamTime": 9,
+                "totalWatchTime": 150803,
+                "averageViewers": 16100,
+                "peakViewers": 18295
+            },
+            {
+                "gameName": "The Outlast Trials",
+                "streamTime": 8,
+                "totalWatchTime": 168873,
+                "averageViewers": 19626,
+                "peakViewers": 23756
+            },
+            {
+                "gameName": "Counter-Strike",
+                "streamTime": 7,
+                "totalWatchTime": 129046,
+                "averageViewers": 15706,
+                "peakViewers": 19707
+            },
+            {
+                "gameName": "Alone in the Dark",
+                "streamTime": 6,
+                "totalWatchTime": 94233,
+                "averageViewers": 14147,
+                "peakViewers": 15631
+            },
+            {
+                "gameName": "Nightingale",
+                "streamTime": 5,
+                "totalWatchTime": 75653,
+                "averageViewers": 13755,
+                "peakViewers": 15182
+            },
+            {
+                "gameName": "Rocket League",
+                "streamTime": 4,
+                "totalWatchTime": 49108,
+                "averageViewers": 12663,
+                "peakViewers": 15752
+            },
+            {
+                "gameName": "Rise of the Ronin",
+                "streamTime": 4,
+                "totalWatchTime": 66864,
+                "averageViewers": 17436,
+                "peakViewers": 22069
+            },
+            {
+                "gameName": "Poppy Playtime",
+                "streamTime": 3,
+                "totalWatchTime": 75787,
+                "averageViewers": 20209,
+                "peakViewers": 21120
+            },
+            {
+                "gameName": "Brothers: A Tale of Two Sons Remake",
+                "streamTime": 3,
+                "totalWatchTime": 46938,
+                "averageViewers": 14442,
+                "peakViewers": 15851
+            },
+            {
+                "gameName": "Fossilfuel 2",
+                "streamTime": 3,
+                "totalWatchTime": 40224,
+                "averageViewers": 14111,
+                "peakViewers": 15761
+            },
+            {
+                "gameName": "SCP: 5K",
+                "streamTime": 2,
+                "totalWatchTime": 65876,
+                "averageViewers": 23556,
+                "peakViewers": 25454
+            },
+            {
+                "gameName": "Barony",
+                "streamTime": 2,
+                "totalWatchTime": 53069,
+                "averageViewers": 20486,
+                "peakViewers": 23349
+            },
+            {
+                "gameName": "FINAL FANTASY VII REBIRTH",
+                "streamTime": 2,
+                "totalWatchTime": 36237,
+                "averageViewers": 14495,
+                "peakViewers": 17737
+            },
+            {
+                "gameName": "Dota 2",
+                "streamTime": 1,
+                "totalWatchTime": 31276,
+                "averageViewers": 17872,
+                "peakViewers": 18770
+            },
+            {
+                "gameName": "Deep Rock Galactic: Survivor",
+                "streamTime": 1,
+                "totalWatchTime": 27939,
+                "averageViewers": 19024,
+                "peakViewers": 21100
+            },
+            {
+                "gameName": "No More Room in Hell",
+                "streamTime": 1,
+                "totalWatchTime": 24036,
+                "averageViewers": 16024,
+                "peakViewers": 16489
+            },
+            {
+                "gameName": "Out of Action",
+                "streamTime": 1,
+                "totalWatchTime": 26206,
+                "averageViewers": 20964,
+                "peakViewers": 23185
+            },
+            {
+                "gameName": "Bloody Hallowfest",
+                "streamTime": 1,
+                "totalWatchTime": 22812,
+                "averageViewers": 22812,
+                "peakViewers": 23150
+            },
+            {
+                "gameName": "Zombie Within",
+                "streamTime": 0,
+                "totalWatchTime": 10551,
+                "averageViewers": 21102,
+                "peakViewers": 22566
+            },
+            {
+                "gameName": "Psalm 5:9-13",
+                "streamTime": 0,
+                "totalWatchTime": 10108,
+                "averageViewers": 20217,
+                "peakViewers": 21193
+            }
+        ]
+    },
+    {
+        "nickname": "TimTheTatman",
+        "followers": 7016611,
+        "language": "English",
+        "averageViewers": 0,
+        "hoursWatched": 0,
+        "followersGained": 0,
+        "peakViewers": 0,
+        "hoursStreamed": 0,
+        "streams": 0,
+        "gamesPlayed": null
+    },
+    {
+        "nickname": "SypherPK",
+        "followers": 6894127,
+        "language": "English",
+        "averageViewers": 5502,
+        "hoursWatched": 683694,
+        "followersGained": 73478,
+        "peakViewers": 62111,
+        "hoursStreamed": 124,
+        "streams": 22,
+        "gamesPlayed": [
+            {
+                "gameName": "Fortnite",
+                "streamTime": 129,
+                "totalWatchTime": 693643,
+                "averageViewers": 3825,
+                "peakViewers": 58520
+            }
+        ]
+    },
+    {
+        "nickname": "AriGameplays",
+        "followers": 6849163,
+        "language": "Spanish",
+        "averageViewers": 2637,
+        "hoursWatched": 160233,
+        "followersGained": 27885,
+        "peakViewers": 8857,
+        "hoursStreamed": 60,
+        "streams": 19,
+        "gamesPlayed": [
+            {
+                "gameName": "Grand Theft Auto V",
+                "streamTime": 31,
+                "totalWatchTime": 88180,
+                "averageViewers": 2861,
+                "peakViewers": 4820
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 16,
+                "totalWatchTime": 41702,
+                "averageViewers": 2279,
+                "peakViewers": 8111
+            },
+            {
+                "gameName": "Supermarket Simulator",
+                "streamTime": 6,
+                "totalWatchTime": 16439,
+                "averageViewers": 2596,
+                "peakViewers": 3430
+            },
+            {
+                "gameName": "Fortnite",
+                "streamTime": 3,
+                "totalWatchTime": 9352,
+                "averageViewers": 2723,
+                "peakViewers": 3439
+            },
+            {
+                "gameName": "Kebab Chefs!: Restaurant Simulator",
+                "streamTime": 1,
+                "totalWatchTime": 3398,
+                "averageViewers": 1942,
+                "peakViewers": 2584
+            },
+            {
+                "gameName": "Pummel Party",
+                "streamTime": 1,
+                "totalWatchTime": 2920,
+                "averageViewers": 2430,
+                "peakViewers": 2589
+            },
+            {
+                "gameName": "Call of Duty: Warzone",
+                "streamTime": 1,
+                "totalWatchTime": 2522,
+                "averageViewers": 2017,
+                "peakViewers": 2213
+            },
+            {
+                "gameName": "VALORANT",
+                "streamTime": 1,
+                "totalWatchTime": 2578,
+                "averageViewers": 2578,
+                "peakViewers": 2865
+            },
+            {
+                "gameName": "BUCKSHOT ROULETTE",
+                "streamTime": 0,
+                "totalWatchTime": 519,
+                "averageViewers": 2078,
+                "peakViewers": 2078
+            }
+        ]
+    },
+    {
+        "nickname": "Riot Games",
+        "followers": 6855524,
+        "language": "English",
+        "averageViewers": 0,
+        "hoursWatched": 0,
+        "followersGained": 0,
+        "peakViewers": 0,
+        "hoursStreamed": 0,
+        "streams": 0,
+        "gamesPlayed": null
+    },
+    {
+        "nickname": "Mongraal",
+        "followers": 6789431,
+        "language": "English",
+        "averageViewers": 12357,
+        "hoursWatched": 778503,
+        "followersGained": 74727,
+        "peakViewers": 87161,
+        "hoursStreamed": 63,
+        "streams": 15,
+        "gamesPlayed": [
+            {
+                "gameName": "Fortnite",
+                "streamTime": 59,
+                "totalWatchTime": 767622,
+                "averageViewers": 11277,
+                "peakViewers": 74645
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 2,
+                "totalWatchTime": 6531,
+                "averageViewers": 2612,
+                "peakViewers": 2952
+            },
+            {
+                "gameName": "Pools, Hot Tubs, and Beaches",
+                "streamTime": 1,
+                "totalWatchTime": 4390,
+                "averageViewers": 3512,
+                "peakViewers": 3973
+            }
+        ]
+    },
+    {
+        "nickname": "NICKMERCS",
+        "followers": 6717610,
+        "language": "English",
+        "averageViewers": 7630,
+        "hoursWatched": 486474,
+        "followersGained": 741,
+        "peakViewers": 14029,
+        "hoursStreamed": 63,
+        "streams": 19,
+        "gamesPlayed": [
+            {
+                "gameName": "Call of Duty: Warzone",
+                "streamTime": 68,
+                "totalWatchTime": 530838,
+                "averageViewers": 7517,
+                "peakViewers": 13706
+            }
+        ]
+    },
+    {
+        "nickname": "Quackity",
+        "followers": 6336199,
+        "language": "English",
+        "averageViewers": 16365,
+        "hoursWatched": 106378,
+        "followersGained": 9188,
+        "peakViewers": 24433,
+        "hoursStreamed": 6,
+        "streams": 4,
+        "gamesPlayed": [
+            {
+                "gameName": "Minecraft",
+                "streamTime": 7,
+                "totalWatchTime": 138009,
+                "averageViewers": 17963,
+                "peakViewers": 23011
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 1,
+                "totalWatchTime": 12057,
+                "averageViewers": 12057,
+                "peakViewers": 23153
+            }
+        ]
+    },
+    {
+        "nickname": "AMOURANTH",
+        "followers": 6303969,
+        "language": "English",
+        "averageViewers": 5921,
+        "hoursWatched": 171725,
+        "followersGained": -12801,
+        "peakViewers": 9864,
+        "hoursStreamed": 29,
+        "streams": 10,
+        "gamesPlayed": [
+            {
+                "gameName": "Pools, Hot Tubs, and Beaches",
+                "streamTime": 30,
+                "totalWatchTime": 175027,
+                "averageViewers": 5731,
+                "peakViewers": 9495
+            },
+            {
+                "gameName": "Just Dance 2022",
+                "streamTime": 1,
+                "totalWatchTime": 5370,
+                "averageViewers": 4296,
+                "peakViewers": 4518
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 0,
+                "totalWatchTime": 1826,
+                "averageViewers": 2435,
+                "peakViewers": 4008
+            }
+        ]
+    },
+    {
+        "nickname": "Dream",
+        "followers": 6390874,
+        "language": "English",
+        "averageViewers": 0,
+        "hoursWatched": 0,
+        "followersGained": 0,
+        "peakViewers": 0,
+        "hoursStreamed": 0,
+        "streams": 0,
+        "gamesPlayed": null
+    },
+    {
+        "nickname": "ESLCS",
+        "followers": 6268514,
+        "language": "English",
+        "averageViewers": 1385,
+        "hoursWatched": 768181,
+        "followersGained": -3202,
+        "peakViewers": 26516,
+        "hoursStreamed": 554,
+        "streams": 16,
+        "gamesPlayed": [
+            {
+                "gameName": "Counter-Strike",
+                "streamTime": 568,
+                "totalWatchTime": 789384,
+                "averageViewers": 1418,
+                "peakViewers": 25671
+            }
+        ]
+    },
+    {
+        "nickname": "summit1g",
+        "followers": 6250392,
+        "language": "English",
+        "averageViewers": 10277,
+        "hoursWatched": 3255496,
+        "followersGained": -300,
+        "peakViewers": 27758,
+        "hoursStreamed": 316,
+        "streams": 25,
+        "gamesPlayed": [
+            {
+                "gameName": "Halo Infinite",
+                "streamTime": 92,
+                "totalWatchTime": 809865,
+                "averageViewers": 8687,
+                "peakViewers": 15464
+            },
+            {
+                "gameName": "Escape from Tarkov",
+                "streamTime": 67,
+                "totalWatchTime": 847171,
+                "averageViewers": 11791,
+                "peakViewers": 22814
+            },
+            {
+                "gameName": "Escape from Tarkov: Arena",
+                "streamTime": 62,
+                "totalWatchTime": 659428,
+                "averageViewers": 10507,
+                "peakViewers": 17253
+            },
+            {
+                "gameName": "Risk of Rain 2",
+                "streamTime": 38,
+                "totalWatchTime": 426704,
+                "averageViewers": 11069,
+                "peakViewers": 17130
+            },
+            {
+                "gameName": "Sea of Thieves",
+                "streamTime": 30,
+                "totalWatchTime": 301730,
+                "averageViewers": 9641,
+                "peakViewers": 16931
+            },
+            {
+                "gameName": "Nightingale",
+                "streamTime": 8,
+                "totalWatchTime": 72709,
+                "averageViewers": 8274,
+                "peakViewers": 11078
+            },
+            {
+                "gameName": "Hunt: Showdown",
+                "streamTime": 7,
+                "totalWatchTime": 92715,
+                "averageViewers": 12260,
+                "peakViewers": 15025
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 7,
+                "totalWatchTime": 70990,
+                "averageViewers": 7838,
+                "peakViewers": 15708
+            },
+            {
+                "gameName": "Skater XL",
+                "streamTime": 5,
+                "totalWatchTime": 58094,
+                "averageViewers": 11065,
+                "peakViewers": 13043
+            },
+            {
+                "gameName": "Halo: The Master Chief Collection",
+                "streamTime": 4,
+                "totalWatchTime": 42753,
+                "averageViewers": 7950,
+                "peakViewers": 12766
+            },
+            {
+                "gameName": "HAWKED",
+                "streamTime": 3,
+                "totalWatchTime": 41244,
+                "averageViewers": 11865,
+                "peakViewers": 13035
+            },
+            {
+                "gameName": "Gunfire Reborn",
+                "streamTime": 1,
+                "totalWatchTime": 17048,
+                "averageViewers": 11365,
+                "peakViewers": 11892
+            },
+            {
+                "gameName": "Alien Swarm: Reactive Drop",
+                "streamTime": 0,
+                "totalWatchTime": 7559,
+                "averageViewers": 10079,
+                "peakViewers": 10682
+            }
+        ]
+    },
+    {
+        "nickname": "rivers_gg",
+        "followers": 5930474,
+        "language": "Spanish",
+        "averageViewers": 15093,
+        "hoursWatched": 1162208,
+        "followersGained": 102235,
+        "peakViewers": 39736,
+        "hoursStreamed": 77,
+        "streams": 24,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 25,
+                "totalWatchTime": 342155,
+                "averageViewers": 12708,
+                "peakViewers": 36355
+            },
+            {
+                "gameName": "Supermarket Simulator",
+                "streamTime": 22,
+                "totalWatchTime": 331452,
+                "averageViewers": 13791,
+                "peakViewers": 24433
+            },
+            {
+                "gameName": "Sports",
+                "streamTime": 14,
+                "totalWatchTime": 292697,
+                "averageViewers": 19865,
+                "peakViewers": 39693
+            },
+            {
+                "gameName": "Minecraft",
+                "streamTime": 7,
+                "totalWatchTime": 111403,
+                "averageViewers": 14467,
+                "peakViewers": 20153
+            },
+            {
+                "gameName": "Fortnite",
+                "streamTime": 2,
+                "totalWatchTime": 22144,
+                "averageViewers": 10403,
+                "peakViewers": 12581
+            },
+            {
+                "gameName": "Kebab Chefs!: Restaurant Simulator",
+                "streamTime": 1,
+                "totalWatchTime": 19381,
+                "averageViewers": 11075,
+                "peakViewers": 13086
+            },
+            {
+                "gameName": "That's Not My Neighbor",
+                "streamTime": 1,
+                "totalWatchTime": 17571,
+                "averageViewers": 14057,
+                "peakViewers": 14584
+            },
+            {
+                "gameName": "eFootball 2024",
+                "streamTime": 1,
+                "totalWatchTime": 14658,
+                "averageViewers": 11726,
+                "peakViewers": 12181
+            },
+            {
+                "gameName": "Plants vs. Zombies",
+                "streamTime": 1,
+                "totalWatchTime": 18200,
+                "averageViewers": 14560,
+                "peakViewers": 15833
+            },
+            {
+                "gameName": "BUCKSHOT ROULETTE",
+                "streamTime": 1,
+                "totalWatchTime": 16727,
+                "averageViewers": 13382,
+                "peakViewers": 14325
+            },
+            {
+                "gameName": "Pacific Drive",
+                "streamTime": 1,
+                "totalWatchTime": 11850,
+                "averageViewers": 11850,
+                "peakViewers": 13687
+            },
+            {
+                "gameName": "Computer Repair Shop",
+                "streamTime": 0,
+                "totalWatchTime": 5817,
+                "averageViewers": 11634,
+                "peakViewers": 12190
+            }
+        ]
+    },
+    {
+        "nickname": "Fortnite",
+        "followers": 5824314,
+        "language": "English",
+        "averageViewers": 33822,
+        "hoursWatched": 608805,
+        "followersGained": 79729,
+        "peakViewers": 83767,
+        "hoursStreamed": 18,
+        "streams": 6,
+        "gamesPlayed": [
+            {
+                "gameName": "Fortnite",
+                "streamTime": 18,
+                "totalWatchTime": 608810,
+                "averageViewers": 23425,
+                "peakViewers": 72511
+            }
+        ]
+    },
+    {
+        "nickname": "Robleis",
+        "followers": 5773018,
+        "language": "Spanish",
+        "averageViewers": 3841,
+        "hoursWatched": 48975,
+        "followersGained": 16117,
+        "peakViewers": 6099,
+        "hoursStreamed": 12,
+        "streams": 4,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 5,
+                "totalWatchTime": 19370,
+                "averageViewers": 3122,
+                "peakViewers": 5375
+            },
+            {
+                "gameName": "Five Nights at Candy's 3",
+                "streamTime": 3,
+                "totalWatchTime": 14442,
+                "averageViewers": 4839,
+                "peakViewers": 5718
+            },
+            {
+                "gameName": "Five Nights at Candy's 2",
+                "streamTime": 1,
+                "totalWatchTime": 8103,
+                "averageViewers": 4630,
+                "peakViewers": 4963
+            },
+            {
+                "gameName": "skribbl.io",
+                "streamTime": 1,
+                "totalWatchTime": 4571,
+                "averageViewers": 3047,
+                "peakViewers": 3368
+            },
+            {
+                "gameName": "Rocket League",
+                "streamTime": 0,
+                "totalWatchTime": 2491,
+                "averageViewers": 3322,
+                "peakViewers": 3384
+            }
+        ]
+    },
+    {
+        "nickname": "elded",
+        "followers": 5579733,
+        "language": "Spanish",
+        "averageViewers": 4174,
+        "hoursWatched": 914234,
+        "followersGained": 2449,
+        "peakViewers": 10545,
+        "hoursStreamed": 219,
+        "streams": 30,
+        "gamesPlayed": [
+            {
+                "gameName": "EA Sports FC 24",
+                "streamTime": 44,
+                "totalWatchTime": 244964,
+                "averageViewers": 5503,
+                "peakViewers": 10363
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 32,
+                "totalWatchTime": 102449,
+                "averageViewers": 2676,
+                "peakViewers": 7702
+            },
+            {
+                "gameName": "Fortnite",
+                "streamTime": 29,
+                "totalWatchTime": 141003,
+                "averageViewers": 4499,
+                "peakViewers": 7512
+            },
+            {
+                "gameName": "Tom Clancy's Rainbow Six Siege",
+                "streamTime": 19,
+                "totalWatchTime": 75021,
+                "averageViewers": 3926,
+                "peakViewers": 7250
+            },
+            {
+                "gameName": "Call of Duty: Warzone",
+                "streamTime": 13,
+                "totalWatchTime": 42592,
+                "averageViewers": 3166,
+                "peakViewers": 4978
+            },
+            {
+                "gameName": "HAWKED",
+                "streamTime": 9,
+                "totalWatchTime": 31232,
+                "averageViewers": 3359,
+                "peakViewers": 4808
+            },
+            {
+                "gameName": "The Walking Dead: Season Two",
+                "streamTime": 7,
+                "totalWatchTime": 27339,
+                "averageViewers": 3840,
+                "peakViewers": 5586
+            },
+            {
+                "gameName": "Skull and Bones",
+                "streamTime": 6,
+                "totalWatchTime": 22743,
+                "averageViewers": 3634,
+                "peakViewers": 4473
+            },
+            {
+                "gameName": "ROBLOX",
+                "streamTime": 6,
+                "totalWatchTime": 25978,
+                "averageViewers": 4542,
+                "peakViewers": 6358
+            },
+            {
+                "gameName": "Battlefield 2042",
+                "streamTime": 4,
+                "totalWatchTime": 17252,
+                "averageViewers": 3725,
+                "peakViewers": 4854
+            },
+            {
+                "gameName": "Teamfight Tactics",
+                "streamTime": 4,
+                "totalWatchTime": 13112,
+                "averageViewers": 3110,
+                "peakViewers": 3948
+            },
+            {
+                "gameName": "Ragnarok Origin",
+                "streamTime": 4,
+                "totalWatchTime": 11231,
+                "averageViewers": 2652,
+                "peakViewers": 4518
+            },
+            {
+                "gameName": "Resident Evil 6",
+                "streamTime": 3,
+                "totalWatchTime": 13363,
+                "averageViewers": 3755,
+                "peakViewers": 4668
+            },
+            {
+                "gameName": "Special Events",
+                "streamTime": 3,
+                "totalWatchTime": 12478,
+                "averageViewers": 3839,
+                "peakViewers": 4647
+            },
+            {
+                "gameName": "Grand Theft Auto V",
+                "streamTime": 3,
+                "totalWatchTime": 15841,
+                "averageViewers": 5280,
+                "peakViewers": 5971
+            },
+            {
+                "gameName": "VALORANT",
+                "streamTime": 2,
+                "totalWatchTime": 11594,
+                "averageViewers": 4218,
+                "peakViewers": 4570
+            },
+            {
+                "gameName": "Monopoly Plus",
+                "streamTime": 2,
+                "totalWatchTime": 11334,
+                "averageViewers": 4533,
+                "peakViewers": 4731
+            },
+            {
+                "gameName": "Pummel Party",
+                "streamTime": 2,
+                "totalWatchTime": 7132,
+                "averageViewers": 3170,
+                "peakViewers": 3691
+            },
+            {
+                "gameName": "Sports",
+                "streamTime": 2,
+                "totalWatchTime": 7286,
+                "averageViewers": 3643,
+                "peakViewers": 4532
+            },
+            {
+                "gameName": "Only Up!",
+                "streamTime": 2,
+                "totalWatchTime": 8753,
+                "averageViewers": 4376,
+                "peakViewers": 4568
+            },
+            {
+                "gameName": "Mario Party Superstars",
+                "streamTime": 2,
+                "totalWatchTime": 8319,
+                "averageViewers": 4159,
+                "peakViewers": 4607
+            },
+            {
+                "gameName": "Minecraft",
+                "streamTime": 1,
+                "totalWatchTime": 5894,
+                "averageViewers": 3431,
+                "peakViewers": 4336
+            },
+            {
+                "gameName": "Goat Simulator 3",
+                "streamTime": 1,
+                "totalWatchTime": 10242,
+                "averageViewers": 5853,
+                "peakViewers": 6391
+            },
+            {
+                "gameName": "HELLDIVERS 2",
+                "streamTime": 1,
+                "totalWatchTime": 7697,
+                "averageViewers": 4398,
+                "peakViewers": 4883
+            },
+            {
+                "gameName": "SpiderHeck",
+                "streamTime": 1,
+                "totalWatchTime": 7060,
+                "averageViewers": 4707,
+                "peakViewers": 4864
+            }
+        ]
+    },
+    {
+        "nickname": "Bugha",
+        "followers": 5491874,
+        "language": "English",
+        "averageViewers": 3018,
+        "hoursWatched": 115470,
+        "followersGained": 15511,
+        "peakViewers": 13144,
+        "hoursStreamed": 38,
+        "streams": 9,
+        "gamesPlayed": [
+            {
+                "gameName": "Fortnite",
+                "streamTime": 40,
+                "totalWatchTime": 118995,
+                "averageViewers": 2978,
+                "peakViewers": 8374
+            },
+            {
+                "gameName": "VALORANT",
+                "streamTime": 0,
+                "totalWatchTime": 1712,
+                "averageViewers": 2283,
+                "peakViewers": 2365
+            }
+        ]
+    },
+    {
+        "nickname": "moistcr1tikal",
+        "followers": 5313374,
+        "language": "English",
+        "averageViewers": 5427,
+        "hoursWatched": 473581,
+        "followersGained": 39300,
+        "peakViewers": 13136,
+        "hoursStreamed": 87,
+        "streams": 24,
+        "gamesPlayed": [
+            {
+                "gameName": "Tom Clancy's Rainbow Six Siege",
+                "streamTime": 27,
+                "totalWatchTime": 161174,
+                "averageViewers": 5965,
+                "peakViewers": 8784
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 25,
+                "totalWatchTime": 131824,
+                "averageViewers": 5396,
+                "peakViewers": 9807
+            },
+            {
+                "gameName": "Apex Legends",
+                "streamTime": 10,
+                "totalWatchTime": 49513,
+                "averageViewers": 5073,
+                "peakViewers": 8328
+            },
+            {
+                "gameName": "Rocket League",
+                "streamTime": 7,
+                "totalWatchTime": 35969,
+                "averageViewers": 5184,
+                "peakViewers": 7543
+            },
+            {
+                "gameName": "Games + Demos",
+                "streamTime": 3,
+                "totalWatchTime": 18622,
+                "averageViewers": 5320,
+                "peakViewers": 6750
+            },
+            {
+                "gameName": "FINAL FANTASY VII REBIRTH",
+                "streamTime": 3,
+                "totalWatchTime": 15383,
+                "averageViewers": 5219,
+                "peakViewers": 8772
+            },
+            {
+                "gameName": "Alone in the Dark",
+                "streamTime": 3,
+                "totalWatchTime": 16084,
+                "averageViewers": 5361,
+                "peakViewers": 6424
+            },
+            {
+                "gameName": "Super Smash Bros. Ultimate",
+                "streamTime": 2,
+                "totalWatchTime": 20258,
+                "averageViewers": 8103,
+                "peakViewers": 9329
+            },
+            {
+                "gameName": "Dragon's Dogma II",
+                "streamTime": 2,
+                "totalWatchTime": 9341,
+                "averageViewers": 4151,
+                "peakViewers": 6463
+            },
+            {
+                "gameName": "Don't Pee",
+                "streamTime": 2,
+                "totalWatchTime": 11916,
+                "averageViewers": 5296,
+                "peakViewers": 6837
+            },
+            {
+                "gameName": "Fortnite",
+                "streamTime": 2,
+                "totalWatchTime": 11035,
+                "averageViewers": 6009,
+                "peakViewers": 7048
+            },
+            {
+                "gameName": "TEKKEN 8",
+                "streamTime": 1,
+                "totalWatchTime": 10684,
+                "averageViewers": 6105,
+                "peakViewers": 6289
+            },
+            {
+                "gameName": "HELLDIVERS 2",
+                "streamTime": 0,
+                "totalWatchTime": 4807,
+                "averageViewers": 6409,
+                "peakViewers": 6635
+            },
+            {
+                "gameName": "Super Smash Bros. Melee",
+                "streamTime": 0,
+                "totalWatchTime": 4262,
+                "averageViewers": 5683,
+                "peakViewers": 6551
+            }
+        ]
+    },
+    {
+        "nickname": "MontanaBlack88",
+        "followers": 5301971,
+        "language": "German",
+        "averageViewers": 35181,
+        "hoursWatched": 1996544,
+        "followersGained": 26856,
+        "peakViewers": 120593,
+        "hoursStreamed": 56,
+        "streams": 14,
+        "gamesPlayed": [
+            {
+                "gameName": "Travel \u0026 Outdoors",
+                "streamTime": 30,
+                "totalWatchTime": 917721,
+                "averageViewers": 29953,
+                "peakViewers": 44556
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 16,
+                "totalWatchTime": 333870,
+                "averageViewers": 13511,
+                "peakViewers": 41717
+            },
+            {
+                "gameName": "Special Events",
+                "streamTime": 9,
+                "totalWatchTime": 710579,
+                "averageViewers": 61759,
+                "peakViewers": 118195
+            },
+            {
+                "gameName": "Sports",
+                "streamTime": 0,
+                "totalWatchTime": 35841,
+                "averageViewers": 47788,
+                "peakViewers": 54320
+            }
+        ]
+    },
+    {
+        "nickname": "loltyler1",
+        "followers": 5297261,
+        "language": "English",
+        "averageViewers": 15924,
+        "hoursWatched": 2512027,
+        "followersGained": 626,
+        "peakViewers": 28117,
+        "hoursStreamed": 157,
+        "streams": 19,
+        "gamesPlayed": [
+            {
+                "gameName": "League of Legends",
+                "streamTime": 167,
+                "totalWatchTime": 2672114,
+                "averageViewers": 15138,
+                "peakViewers": 25454
+            },
+            {
+                "gameName": "Chess",
+                "streamTime": 1,
+                "totalWatchTime": 20997,
+                "averageViewers": 12162,
+                "peakViewers": 15263
+            }
+        ]
+    },
+    {
+        "nickname": "NickEh30",
+        "followers": 5295050,
+        "language": "English",
+        "averageViewers": 4552,
+        "hoursWatched": 682861,
+        "followersGained": 79391,
+        "peakViewers": 22354,
+        "hoursStreamed": 150,
+        "streams": 25,
+        "gamesPlayed": [
+            {
+                "gameName": "Fortnite",
+                "streamTime": 153,
+                "totalWatchTime": 690838,
+                "averageViewers": 4150,
+                "peakViewers": 19743
+            }
+        ]
+    },
+    {
+        "nickname": "Tubbo",
+        "followers": 5266366,
+        "language": "English",
+        "averageViewers": 5364,
+        "hoursWatched": 2832287,
+        "followersGained": 21760,
+        "peakViewers": 23457,
+        "hoursStreamed": 528,
+        "streams": 6,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 381,
+                "totalWatchTime": 1895404,
+                "averageViewers": 5134,
+                "peakViewers": 22780
+            },
+            {
+                "gameName": "Minecraft",
+                "streamTime": 102,
+                "totalWatchTime": 678205,
+                "averageViewers": 6793,
+                "peakViewers": 12761
+            },
+            {
+                "gameName": "Dungeons \u0026 Dragons",
+                "streamTime": 15,
+                "totalWatchTime": 107434,
+                "averageViewers": 6742,
+                "peakViewers": 14758
+            },
+            {
+                "gameName": "VALORANT",
+                "streamTime": 13,
+                "totalWatchTime": 71439,
+                "averageViewers": 5036,
+                "peakViewers": 7698
+            },
+            {
+                "gameName": "Factorio",
+                "streamTime": 5,
+                "totalWatchTime": 27133,
+                "averageViewers": 4732,
+                "peakViewers": 5329
+            },
+            {
+                "gameName": "Half-Life: Alyx",
+                "streamTime": 5,
+                "totalWatchTime": 25366,
+                "averageViewers": 4746,
+                "peakViewers": 6477
+            },
+            {
+                "gameName": "RISK: The Game of Global Domination",
+                "streamTime": 2,
+                "totalWatchTime": 20666,
+                "averageViewers": 7470,
+                "peakViewers": 8929
+            },
+            {
+                "gameName": "Portal 2",
+                "streamTime": 1,
+                "totalWatchTime": 6181,
+                "averageViewers": 6181,
+                "peakViewers": 6344
+            },
+            {
+                "gameName": "Fall Guys",
+                "streamTime": 1,
+                "totalWatchTime": 5773,
+                "averageViewers": 5773,
+                "peakViewers": 5976
+            },
+            {
+                "gameName": "Cities: Skylines II",
+                "streamTime": 0,
+                "totalWatchTime": 4056,
+                "averageViewers": 5408,
+                "peakViewers": 5481
+            },
+            {
+                "gameName": "PlateUp!",
+                "streamTime": 0,
+                "totalWatchTime": 772,
+                "averageViewers": 3088,
+                "peakViewers": 3088
+            },
+            {
+                "gameName": "Outer Wilds",
+                "streamTime": 0,
+                "totalWatchTime": 1459,
+                "averageViewers": 5839,
+                "peakViewers": 5839
+            }
+        ]
+    },
+    {
+        "nickname": "Jynxzi",
+        "followers": 5183446,
+        "language": "English",
+        "averageViewers": 92427,
+        "hoursWatched": 10213277,
+        "followersGained": 571142,
+        "peakViewers": 213566,
+        "hoursStreamed": 110,
+        "streams": 27,
+        "gamesPlayed": [
+            {
+                "gameName": "Tom Clancy's Rainbow Six Siege",
+                "streamTime": 94,
+                "totalWatchTime": 8667755,
+                "averageViewers": 88301,
+                "peakViewers": 210561
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 20,
+                "totalWatchTime": 1864078,
+                "averageViewers": 87894,
+                "peakViewers": 141919
+            },
+            {
+                "gameName": "Fall Guys",
+                "streamTime": 0,
+                "totalWatchTime": 42472,
+                "averageViewers": 84944,
+                "peakViewers": 86525
+            }
+        ]
+    },
+    {
+        "nickname": "loud_coringa",
+        "followers": 5150184,
+        "language": "Portuguese",
+        "averageViewers": 19828,
+        "hoursWatched": 3088264,
+        "followersGained": 82698,
+        "peakViewers": 61310,
+        "hoursStreamed": 155,
+        "streams": 27,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 45,
+                "totalWatchTime": 940909,
+                "averageViewers": 19079,
+                "peakViewers": 56426
+            },
+            {
+                "gameName": "Grand Theft Auto V",
+                "streamTime": 41,
+                "totalWatchTime": 1227017,
+                "averageViewers": 29421,
+                "peakViewers": 39253
+            },
+            {
+                "gameName": "VALORANT",
+                "streamTime": 37,
+                "totalWatchTime": 551778,
+                "averageViewers": 13690,
+                "peakViewers": 44608
+            },
+            {
+                "gameName": "Slots",
+                "streamTime": 9,
+                "totalWatchTime": 87681,
+                "averageViewers": 9281,
+                "peakViewers": 16010
+            },
+            {
+                "gameName": "EA Sports UFC 5",
+                "streamTime": 6,
+                "totalWatchTime": 107990,
+                "averageViewers": 18902,
+                "peakViewers": 28594
+            },
+            {
+                "gameName": "Garena Free Fire",
+                "streamTime": 5,
+                "totalWatchTime": 84828,
+                "averageViewers": 13463,
+                "peakViewers": 26871
+            },
+            {
+                "gameName": "Hell Let Loose",
+                "streamTime": 4,
+                "totalWatchTime": 71270,
+                "averageViewers": 15765,
+                "peakViewers": 22098
+            },
+            {
+                "gameName": "iBLiS",
+                "streamTime": 2,
+                "totalWatchTime": 21576,
+                "averageViewers": 9589,
+                "peakViewers": 15074
+            },
+            {
+                "gameName": "Chased by Darkness",
+                "streamTime": 2,
+                "totalWatchTime": 42283,
+                "averageViewers": 21141,
+                "peakViewers": 21866
+            },
+            {
+                "gameName": "KinitoPET",
+                "streamTime": 2,
+                "totalWatchTime": 31246,
+                "averageViewers": 15623,
+                "peakViewers": 22931
+            },
+            {
+                "gameName": "EA Sports FC 24",
+                "streamTime": 1,
+                "totalWatchTime": 27572,
+                "averageViewers": 18381,
+                "peakViewers": 19717
+            },
+            {
+                "gameName": "DEVOUR",
+                "streamTime": 1,
+                "totalWatchTime": 9735,
+                "averageViewers": 6490,
+                "peakViewers": 6982
+            },
+            {
+                "gameName": "Clash Royale",
+                "streamTime": 1,
+                "totalWatchTime": 21606,
+                "averageViewers": 17284,
+                "peakViewers": 20367
+            },
+            {
+                "gameName": "WWE 2K Battlegrounds",
+                "streamTime": 0,
+                "totalWatchTime": 13952,
+                "averageViewers": 18603,
+                "peakViewers": 19923
+            },
+            {
+                "gameName": "Beat Saber",
+                "streamTime": 0,
+                "totalWatchTime": 9301,
+                "averageViewers": 18603,
+                "peakViewers": 19727
+            },
+            {
+                "gameName": "VRChat",
+                "streamTime": 0,
+                "totalWatchTime": 9914,
+                "averageViewers": 19829,
+                "peakViewers": 20871
+            },
+            {
+                "gameName": "Stay Close",
+                "streamTime": 0,
+                "totalWatchTime": 3643,
+                "averageViewers": 7287,
+                "peakViewers": 7305
+            },
+            {
+                "gameName": "Counter-Strike",
+                "streamTime": 0,
+                "totalWatchTime": 5815,
+                "averageViewers": 11631,
+                "peakViewers": 12052
+            }
+        ]
+    },
+    {
+        "nickname": "GeorgeNotFound",
+        "followers": 5025921,
+        "language": "English",
+        "averageViewers": 8779,
+        "hoursWatched": 30728,
+        "followersGained": -11911,
+        "peakViewers": 34823,
+        "hoursStreamed": 3,
+        "streams": 2,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 3,
+                "totalWatchTime": 30729,
+                "averageViewers": 12860,
+                "peakViewers": 33898
+            }
+        ]
+    },
+    {
+        "nickname": "Squeezie",
+        "followers": 4960660,
+        "language": "French",
+        "averageViewers": 27068,
+        "hoursWatched": 1245139,
+        "followersGained": 35636,
+        "peakViewers": 122151,
+        "hoursStreamed": 46,
+        "streams": 10,
+        "gamesPlayed": [
+            {
+                "gameName": "VALORANT",
+                "streamTime": 15,
+                "totalWatchTime": 740799,
+                "averageViewers": 36724,
+                "peakViewers": 150660
+            },
+            {
+                "gameName": "Detroit: Become Human",
+                "streamTime": 13,
+                "totalWatchTime": 400695,
+                "averageViewers": 30568,
+                "peakViewers": 36526
+            },
+            {
+                "gameName": "A Difficult Game About Climbing",
+                "streamTime": 5,
+                "totalWatchTime": 96871,
+                "averageViewers": 18001,
+                "peakViewers": 25051
+            },
+            {
+                "gameName": "Mario Party Superstars",
+                "streamTime": 3,
+                "totalWatchTime": 91062,
+                "averageViewers": 24920,
+                "peakViewers": 30261
+            },
+            {
+                "gameName": "Fortnite",
+                "streamTime": 2,
+                "totalWatchTime": 41081,
+                "averageViewers": 14938,
+                "peakViewers": 19087
+            },
+            {
+                "gameName": "KinitoPET",
+                "streamTime": 2,
+                "totalWatchTime": 73771,
+                "averageViewers": 29884,
+                "peakViewers": 33986
+            },
+            {
+                "gameName": "Outcast: A New Beginning",
+                "streamTime": 2,
+                "totalWatchTime": 35742,
+                "averageViewers": 14296,
+                "peakViewers": 19452
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 1,
+                "totalWatchTime": 6582,
+                "averageViewers": 4424,
+                "peakViewers": 14609
+            },
+            {
+                "gameName": "Mario Kart 8 Deluxe",
+                "streamTime": 1,
+                "totalWatchTime": 33272,
+                "averageViewers": 26617,
+                "peakViewers": 31021
+            },
+            {
+                "gameName": "DON'T SCREAM",
+                "streamTime": 0,
+                "totalWatchTime": 22742,
+                "averageViewers": 30322,
+                "peakViewers": 35775
+            },
+            {
+                "gameName": "The Backrooms 1998",
+                "streamTime": 0,
+                "totalWatchTime": 18670,
+                "averageViewers": 37341,
+                "peakViewers": 38222
+            },
+            {
+                "gameName": "Five Nights At Shrek's Hotel 2",
+                "streamTime": 0,
+                "totalWatchTime": 17715,
+                "averageViewers": 35430,
+                "peakViewers": 36101
+            },
+            {
+                "gameName": "Poop Killer",
+                "streamTime": 0,
+                "totalWatchTime": 18220,
+                "averageViewers": 36440,
+                "peakViewers": 37046
+            },
+            {
+                "gameName": "Nightingale",
+                "streamTime": 0,
+                "totalWatchTime": 3959,
+                "averageViewers": 15837,
+                "peakViewers": 15837
+            }
+        ]
+    },
+    {
+        "nickname": "SLAKUN10",
+        "followers": 4794465,
+        "language": "Spanish",
+        "averageViewers": 2766,
+        "hoursWatched": 62933,
+        "followersGained": 102,
+        "peakViewers": 9137,
+        "hoursStreamed": 22,
+        "streams": 13,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 13,
+                "totalWatchTime": 28846,
+                "averageViewers": 2209,
+                "peakViewers": 4404
+            },
+            {
+                "gameName": "Sports",
+                "streamTime": 11,
+                "totalWatchTime": 37353,
+                "averageViewers": 3172,
+                "peakViewers": 7267
+            }
+        ]
+    },
+    {
+        "nickname": "dakotaz",
+        "followers": 4686571,
+        "language": "English",
+        "averageViewers": 2129,
+        "hoursWatched": 320012,
+        "followersGained": -346,
+        "peakViewers": 3744,
+        "hoursStreamed": 150,
+        "streams": 25,
+        "gamesPlayed": [
+            {
+                "gameName": "Fortnite",
+                "streamTime": 148,
+                "totalWatchTime": 318401,
+                "averageViewers": 2097,
+                "peakViewers": 3542
+            },
+            {
+                "gameName": "Among Us",
+                "streamTime": 7,
+                "totalWatchTime": 11406,
+                "averageViewers": 1468,
+                "peakViewers": 2279
+            }
+        ]
+    },
+    {
+        "nickname": "WilburSoot",
+        "followers": 4801030,
+        "language": "English",
+        "averageViewers": 0,
+        "hoursWatched": 0,
+        "followersGained": 0,
+        "peakViewers": 0,
+        "hoursStreamed": 0,
+        "streams": 0,
+        "gamesPlayed": null
+    },
+    {
+        "nickname": "Elraenn",
+        "followers": 4626748,
+        "language": "Turkish",
+        "averageViewers": 25988,
+        "hoursWatched": 974569,
+        "followersGained": 30137,
+        "peakViewers": 41992,
+        "hoursStreamed": 37,
+        "streams": 7,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 15,
+                "totalWatchTime": 307078,
+                "averageViewers": 19427,
+                "peakViewers": 34901
+            },
+            {
+                "gameName": "Supermarket Simulator",
+                "streamTime": 9,
+                "totalWatchTime": 277371,
+                "averageViewers": 29393,
+                "peakViewers": 35349
+            },
+            {
+                "gameName": "Escape the Backrooms",
+                "streamTime": 7,
+                "totalWatchTime": 251203,
+                "averageViewers": 33236,
+                "peakViewers": 43260
+            },
+            {
+                "gameName": "Only Climb: Better Together",
+                "streamTime": 4,
+                "totalWatchTime": 121049,
+                "averageViewers": 30262,
+                "peakViewers": 36060
+            },
+            {
+                "gameName": "Party Animals",
+                "streamTime": 3,
+                "totalWatchTime": 91214,
+                "averageViewers": 24873,
+                "peakViewers": 27884
+            },
+            {
+                "gameName": "HELLDIVERS 2",
+                "streamTime": 2,
+                "totalWatchTime": 56215,
+                "averageViewers": 28107,
+                "peakViewers": 31616
+            },
+            {
+                "gameName": "Chivalry 2",
+                "streamTime": 2,
+                "totalWatchTime": 47815,
+                "averageViewers": 23907,
+                "peakViewers": 29293
+            },
+            {
+                "gameName": "Supermarket Simulator",
+                "streamTime": 0,
+                "totalWatchTime": 23661,
+                "averageViewers": 31548,
+                "peakViewers": 33824
+            },
+            {
+                "gameName": "Florence",
+                "streamTime": 0,
+                "totalWatchTime": 12243,
+                "averageViewers": 24487,
+                "peakViewers": 25446
+            }
+        ]
+    },
+    {
+        "nickname": "QuackityToo",
+        "followers": 4609977,
+        "language": "Spanish",
+        "averageViewers": 22559,
+        "hoursWatched": 214312,
+        "followersGained": 8956,
+        "peakViewers": 43643,
+        "hoursStreamed": 9,
+        "streams": 5,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 7,
+                "totalWatchTime": 132059,
+                "averageViewers": 18285,
+                "peakViewers": 32185
+            },
+            {
+                "gameName": "Poppy Playtime",
+                "streamTime": 2,
+                "totalWatchTime": 73230,
+                "averageViewers": 28137,
+                "peakViewers": 37250
+            },
+            {
+                "gameName": "Outlast",
+                "streamTime": 1,
+                "totalWatchTime": 23967,
+                "averageViewers": 19174,
+                "peakViewers": 20814
+            },
+            {
+                "gameName": "ROBLOX",
+                "streamTime": 0,
+                "totalWatchTime": 16699,
+                "averageViewers": 22266,
+                "peakViewers": 24326
+            }
+        ]
+    },
+    {
+        "nickname": "Carreraaa",
+        "followers": 4491996,
+        "language": "Spanish",
+        "averageViewers": 8094,
+        "hoursWatched": 180100,
+        "followersGained": 27883,
+        "peakViewers": 12526,
+        "hoursStreamed": 22,
+        "streams": 5,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 16,
+                "totalWatchTime": 135421,
+                "averageViewers": 8507,
+                "peakViewers": 12240
+            },
+            {
+                "gameName": "Supermarket Simulator",
+                "streamTime": 2,
+                "totalWatchTime": 17746,
+                "averageViewers": 7098,
+                "peakViewers": 7829
+            },
+            {
+                "gameName": "Suck Up!",
+                "streamTime": 1,
+                "totalWatchTime": 9370,
+                "averageViewers": 7496,
+                "peakViewers": 7788
+            },
+            {
+                "gameName": "Level Devil",
+                "streamTime": 1,
+                "totalWatchTime": 6825,
+                "averageViewers": 6825,
+                "peakViewers": 7539
+            },
+            {
+                "gameName": "The Exit 8",
+                "streamTime": 0,
+                "totalWatchTime": 5178,
+                "averageViewers": 6904,
+                "peakViewers": 7886
+            },
+            {
+                "gameName": "Mundo Gaturro",
+                "streamTime": 0,
+                "totalWatchTime": 3883,
+                "averageViewers": 7767,
+                "peakViewers": 7913
+            },
+            {
+                "gameName": "Dead End Exit 8",
+                "streamTime": 0,
+                "totalWatchTime": 1683,
+                "averageViewers": 6734,
+                "peakViewers": 6734
+            }
+        ]
+    },
+    {
+        "nickname": "DrLupo",
+        "followers": 4478379,
+        "language": "English",
+        "averageViewers": 0,
+        "hoursWatched": 0,
+        "followersGained": 0,
+        "peakViewers": 0,
+        "hoursStreamed": 0,
+        "streams": 0,
+        "gamesPlayed": null
+    },
+    {
+        "nickname": "RanbooLive",
+        "followers": 4460717,
+        "language": "English",
+        "averageViewers": 2811,
+        "hoursWatched": 38660,
+        "followersGained": -6793,
+        "peakViewers": 5118,
+        "hoursStreamed": 13,
+        "streams": 6,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 5,
+                "totalWatchTime": 16030,
+                "averageViewers": 2919,
+                "peakViewers": 3940
+            },
+            {
+                "gameName": "Viscera Cleanup Detail",
+                "streamTime": 5,
+                "totalWatchTime": 14617,
+                "averageViewers": 2974,
+                "peakViewers": 4868
+            },
+            {
+                "gameName": "The Long Drive",
+                "streamTime": 2,
+                "totalWatchTime": 8017,
+                "averageViewers": 2915,
+                "peakViewers": 3160
+            }
+        ]
+    },
+    {
+        "nickname": "Fresh",
+        "followers": 4469784,
+        "language": "English",
+        "averageViewers": 0,
+        "hoursWatched": 0,
+        "followersGained": 0,
+        "peakViewers": 0,
+        "hoursStreamed": 0,
+        "streams": 0,
+        "gamesPlayed": null
+    },
+    {
+        "nickname": "Philza",
+        "followers": 4347292,
+        "language": "English",
+        "averageViewers": 5541,
+        "hoursWatched": 317277,
+        "followersGained": -5630,
+        "peakViewers": 13677,
+        "hoursStreamed": 57,
+        "streams": 11,
+        "gamesPlayed": [
+            {
+                "gameName": "Minecraft",
+                "streamTime": 60,
+                "totalWatchTime": 343949,
+                "averageViewers": 5641,
+                "peakViewers": 13482
+            },
+            {
+                "gameName": "Stardew Valley",
+                "streamTime": 3,
+                "totalWatchTime": 11920,
+                "averageViewers": 3973,
+                "peakViewers": 4409
+            }
+        ]
+    },
+    {
+        "nickname": "Gotaga",
+        "followers": 4306725,
+        "language": "French",
+        "averageViewers": 15972,
+        "hoursWatched": 1992566,
+        "followersGained": 20143,
+        "peakViewers": 71550,
+        "hoursStreamed": 124,
+        "streams": 30,
+        "gamesPlayed": [
+            {
+                "gameName": "VALORANT",
+                "streamTime": 46,
+                "totalWatchTime": 447508,
+                "averageViewers": 9337,
+                "peakViewers": 19363
+            },
+            {
+                "gameName": "Rocket League",
+                "streamTime": 25,
+                "totalWatchTime": 639710,
+                "averageViewers": 21780,
+                "peakViewers": 67163
+            },
+            {
+                "gameName": "League of Legends",
+                "streamTime": 16,
+                "totalWatchTime": 455023,
+                "averageViewers": 24213,
+                "peakViewers": 62453
+            },
+            {
+                "gameName": "Apex Legends",
+                "streamTime": 12,
+                "totalWatchTime": 108236,
+                "averageViewers": 8916,
+                "peakViewers": 13870
+            },
+            {
+                "gameName": "Fortnite",
+                "streamTime": 8,
+                "totalWatchTime": 225419,
+                "averageViewers": 24926,
+                "peakViewers": 53196
+            },
+            {
+                "gameName": "FINAL FANTASY VII REBIRTH",
+                "streamTime": 6,
+                "totalWatchTime": 30028,
+                "averageViewers": 5004,
+                "peakViewers": 7584
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 4,
+                "totalWatchTime": 45389,
+                "averageViewers": 9606,
+                "peakViewers": 16244
+            },
+            {
+                "gameName": "Mario Party Superstars",
+                "streamTime": 3,
+                "totalWatchTime": 29927,
+                "averageViewers": 7616,
+                "peakViewers": 10563
+            },
+            {
+                "gameName": "Mario Kart 8 Deluxe",
+                "streamTime": 1,
+                "totalWatchTime": 11323,
+                "averageViewers": 11323,
+                "peakViewers": 12485
+            }
+        ]
+    },
+    {
+        "nickname": "VALORANT",
+        "followers": 4242274,
+        "language": "English",
+        "averageViewers": 26403,
+        "hoursWatched": 2343321,
+        "followersGained": 76644,
+        "peakViewers": 90197,
+        "hoursStreamed": 88,
+        "streams": 14,
+        "gamesPlayed": [
+            {
+                "gameName": "VALORANT",
+                "streamTime": 88,
+                "totalWatchTime": 2332469,
+                "averageViewers": 24726,
+                "peakViewers": 88710
+            }
+        ]
+    },
+    {
+        "nickname": "RocketLeague",
+        "followers": 4176394,
+        "language": "English",
+        "averageViewers": 17205,
+        "hoursWatched": 972096,
+        "followersGained": 9145,
+        "peakViewers": 43795,
+        "hoursStreamed": 56,
+        "streams": 13,
+        "gamesPlayed": [
+            {
+                "gameName": "Rocket League",
+                "streamTime": 59,
+                "totalWatchTime": 981111,
+                "averageViewers": 14342,
+                "peakViewers": 40748
+            }
+        ]
+    },
+    {
+        "nickname": "DaequanWoco",
+        "followers": 4196613,
+        "language": "English",
+        "averageViewers": 0,
+        "hoursWatched": 0,
+        "followersGained": 0,
+        "peakViewers": 0,
+        "hoursStreamed": 0,
+        "streams": 0,
+        "gamesPlayed": null
+    },
+    {
+        "nickname": "Gaules",
+        "followers": 4093572,
+        "language": "Portuguese",
+        "averageViewers": 20142,
+        "hoursWatched": 14437373,
+        "followersGained": 28247,
+        "peakViewers": 207635,
+        "hoursStreamed": 716,
+        "streams": 9,
+        "gamesPlayed": [
+            {
+                "gameName": "Counter-Strike",
+                "streamTime": 428,
+                "totalWatchTime": 13084067,
+                "averageViewers": 26092,
+                "peakViewers": 198671
+            },
+            {
+                "gameName": "Palworld",
+                "streamTime": 93,
+                "totalWatchTime": 479063,
+                "averageViewers": 6711,
+                "peakViewers": 24165
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 69,
+                "totalWatchTime": 243536,
+                "averageViewers": 7311,
+                "peakViewers": 55171
+            },
+            {
+                "gameName": "Sons of the Forest",
+                "streamTime": 29,
+                "totalWatchTime": 461825,
+                "averageViewers": 15498,
+                "peakViewers": 19465
+            },
+            {
+                "gameName": "Pummel Party",
+                "streamTime": 25,
+                "totalWatchTime": 75576,
+                "averageViewers": 6155,
+                "peakViewers": 16941
+            },
+            {
+                "gameName": "War by Grow Games",
+                "streamTime": 22,
+                "totalWatchTime": 65784,
+                "averageViewers": 2888,
+                "peakViewers": 16871
+            },
+            {
+                "gameName": "The Quarry",
+                "streamTime": 17,
+                "totalWatchTime": 32160,
+                "averageViewers": 1891,
+                "peakViewers": 4980
+            },
+            {
+                "gameName": "Raft",
+                "streamTime": 13,
+                "totalWatchTime": 27164,
+                "averageViewers": 2089,
+                "peakViewers": 4035
+            },
+            {
+                "gameName": "Detroit: Become Human",
+                "streamTime": 12,
+                "totalWatchTime": 24143,
+                "averageViewers": 2242,
+                "peakViewers": 3504
+            },
+            {
+                "gameName": "Tom Clancy's Rainbow Six Siege",
+                "streamTime": 7,
+                "totalWatchTime": 162884,
+                "averageViewers": 26998,
+                "peakViewers": 42398
+            },
+            {
+                "gameName": "Travel \u0026 Outdoors",
+                "streamTime": 6,
+                "totalWatchTime": 10680,
+                "averageViewers": 1582,
+                "peakViewers": 2156
+            },
+            {
+                "gameName": "Twelve Minutes",
+                "streamTime": 6,
+                "totalWatchTime": 16381,
+                "averageViewers": 2446,
+                "peakViewers": 3183
+            },
+            {
+                "gameName": "Human: Fall Flat",
+                "streamTime": 5,
+                "totalWatchTime": 19645,
+                "averageViewers": 5264,
+                "peakViewers": 7289
+            },
+            {
+                "gameName": "Special Events",
+                "streamTime": 1,
+                "totalWatchTime": 51521,
+                "averageViewers": 31701,
+                "peakViewers": 53000
+            },
+            {
+                "gameName": "A Way Out",
+                "streamTime": 0,
+                "totalWatchTime": 1465,
+                "averageViewers": 2931,
+                "peakViewers": 2939
+            }
+        ]
+    },
+    {
+        "nickname": "MissaSinfonia",
+        "followers": 4020103,
+        "language": "Spanish",
+        "averageViewers": 0,
+        "hoursWatched": 0,
+        "followersGained": 0,
+        "peakViewers": 0,
+        "hoursStreamed": 0,
+        "streams": 0,
+        "gamesPlayed": null
+    },
+    {
+        "nickname": "IlloJuan",
+        "followers": 4029064,
+        "language": "Spanish",
+        "averageViewers": 31976,
+        "hoursWatched": 2334280,
+        "followersGained": 23759,
+        "peakViewers": 53650,
+        "hoursStreamed": 73,
+        "streams": 11,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 26,
+                "totalWatchTime": 745109,
+                "averageViewers": 27920,
+                "peakViewers": 51223
+            },
+            {
+                "gameName": "South Park: The Fractured But Whole",
+                "streamTime": 22,
+                "totalWatchTime": 764025,
+                "averageViewers": 32873,
+                "peakViewers": 49398
+            },
+            {
+                "gameName": "DayZ",
+                "streamTime": 21,
+                "totalWatchTime": 697882,
+                "averageViewers": 31225,
+                "peakViewers": 42205
+            },
+            {
+                "gameName": "Fortnite",
+                "streamTime": 3,
+                "totalWatchTime": 127288,
+                "averageViewers": 42429,
+                "peakViewers": 52466
+            }
+        ]
+    },
+    {
+        "nickname": "benjyfishy",
+        "followers": 4006170,
+        "language": "English",
+        "averageViewers": 2630,
+        "hoursWatched": 31560,
+        "followersGained": 1709,
+        "peakViewers": 4215,
+        "hoursStreamed": 12,
+        "streams": 5,
+        "gamesPlayed": [
+            {
+                "gameName": "VALORANT",
+                "streamTime": 14,
+                "totalWatchTime": 40491,
+                "averageViewers": 2878,
+                "peakViewers": 5877
+            }
+        ]
+    },
+    {
+        "nickname": "MrSavage",
+        "followers": 4000026,
+        "language": "English",
+        "averageViewers": 16214,
+        "hoursWatched": 1341736,
+        "followersGained": 124980,
+        "peakViewers": 127414,
+        "hoursStreamed": 82,
+        "streams": 17,
+        "gamesPlayed": [
+            {
+                "gameName": "Fortnite",
+                "streamTime": 72,
+                "totalWatchTime": 1294658,
+                "averageViewers": 15992,
+                "peakViewers": 118522
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 6,
+                "totalWatchTime": 28659,
+                "averageViewers": 3736,
+                "peakViewers": 6929
+            },
+            {
+                "gameName": "Counter-Strike",
+                "streamTime": 2,
+                "totalWatchTime": 12638,
+                "averageViewers": 3563,
+                "peakViewers": 6529
+            },
+            {
+                "gameName": "Pools, Hot Tubs, and Beaches",
+                "streamTime": 1,
+                "totalWatchTime": 4232,
+                "averageViewers": 4232,
+                "peakViewers": 4643
+            },
+            {
+                "gameName": "EA Sports FC 24",
+                "streamTime": 0,
+                "totalWatchTime": 1573,
+                "averageViewers": 6293,
+                "peakViewers": 6293
+            }
+        ]
+    },
+    {
+        "nickname": "Symfuhny",
+        "followers": 3974484,
+        "language": "English",
+        "averageViewers": 3781,
+        "hoursWatched": 689138,
+        "followersGained": 2232,
+        "peakViewers": 8405,
+        "hoursStreamed": 182,
+        "streams": 27,
+        "gamesPlayed": [
+            {
+                "gameName": "Call of Duty: Warzone",
+                "streamTime": 184,
+                "totalWatchTime": 692978,
+                "averageViewers": 3753,
+                "peakViewers": 7614
+            },
+            {
+                "gameName": "Call of Duty: Warzone Mobile",
+                "streamTime": 2,
+                "totalWatchTime": 4403,
+                "averageViewers": 1942,
+                "peakViewers": 2266
+            },
+            {
+                "gameName": "Zero Hour",
+                "streamTime": 1,
+                "totalWatchTime": 6644,
+                "averageViewers": 3796,
+                "peakViewers": 4834
+            }
+        ]
+    },
+    {
+        "nickname": "Sykkuno",
+        "followers": 4045694,
+        "language": "English",
+        "averageViewers": 0,
+        "hoursWatched": 0,
+        "followersGained": 0,
+        "peakViewers": 0,
+        "hoursStreamed": 0,
+        "streams": 0,
+        "gamesPlayed": null
+    },
+    {
+        "nickname": "elxokas",
+        "followers": 3905850,
+        "language": "Spanish",
+        "averageViewers": 16458,
+        "hoursWatched": 1695208,
+        "followersGained": 34414,
+        "peakViewers": 48719,
+        "hoursStreamed": 103,
+        "streams": 16,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 64,
+                "totalWatchTime": 1117798,
+                "averageViewers": 15893,
+                "peakViewers": 33381
+            },
+            {
+                "gameName": "Ghost of Tsushima",
+                "streamTime": 25,
+                "totalWatchTime": 309915,
+                "averageViewers": 12687,
+                "peakViewers": 24141
+            },
+            {
+                "gameName": "Dragon's Dogma II",
+                "streamTime": 6,
+                "totalWatchTime": 85829,
+                "averageViewers": 11720,
+                "peakViewers": 18143
+            },
+            {
+                "gameName": "League of Legends",
+                "streamTime": 6,
+                "totalWatchTime": 101485,
+                "averageViewers": 16914,
+                "peakViewers": 20999
+            },
+            {
+                "gameName": "Food \u0026 Drink",
+                "streamTime": 4,
+                "totalWatchTime": 128328,
+                "averageViewers": 27664,
+                "peakViewers": 46962
+            },
+            {
+                "gameName": "HumanitZ",
+                "streamTime": 2,
+                "totalWatchTime": 43475,
+                "averageViewers": 17390,
+                "peakViewers": 20723
+            },
+            {
+                "gameName": "Last Epoch",
+                "streamTime": 0,
+                "totalWatchTime": 9103,
+                "averageViewers": 18207,
+                "peakViewers": 19056
+            }
+        ]
+    },
+    {
+        "nickname": "buster",
+        "followers": 3902743,
+        "language": "Russian",
+        "averageViewers": 20316,
+        "hoursWatched": 863460,
+        "followersGained": 27967,
+        "peakViewers": 60751,
+        "hoursStreamed": 42,
+        "streams": 12,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 24,
+                "totalWatchTime": 523286,
+                "averageViewers": 17124,
+                "peakViewers": 59529
+            },
+            {
+                "gameName": "Counter-Strike",
+                "streamTime": 16,
+                "totalWatchTime": 270193,
+                "averageViewers": 16517,
+                "peakViewers": 33497
+            },
+            {
+                "gameName": "Among Us",
+                "streamTime": 2,
+                "totalWatchTime": 67194,
+                "averageViewers": 26877,
+                "peakViewers": 29983
+            },
+            {
+                "gameName": "A Difficult Game About Climbing",
+                "streamTime": 0,
+                "totalWatchTime": 12223,
+                "averageViewers": 16298,
+                "peakViewers": 17134
+            },
+            {
+                "gameName": "Fortnite",
+                "streamTime": 0,
+                "totalWatchTime": 4524,
+                "averageViewers": 9048,
+                "peakViewers": 9052
+            }
+        ]
+    },
+    {
+        "nickname": "coscu",
+        "followers": 3872704,
+        "language": "Spanish",
+        "averageViewers": 4740,
+        "hoursWatched": 393470,
+        "followersGained": 5409,
+        "peakViewers": 23732,
+        "hoursStreamed": 83,
+        "streams": 27,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 57,
+                "totalWatchTime": 266247,
+                "averageViewers": 4057,
+                "peakViewers": 23605
+            },
+            {
+                "gameName": "Slots",
+                "streamTime": 21,
+                "totalWatchTime": 117077,
+                "averageViewers": 5729,
+                "peakViewers": 8589
+            },
+            {
+                "gameName": "League of Legends",
+                "streamTime": 5,
+                "totalWatchTime": 12627,
+                "averageViewers": 2295,
+                "peakViewers": 3585
+            }
+        ]
+    },
+    {
+        "nickname": "Faker",
+        "followers": 3842918,
+        "language": "Korean",
+        "averageViewers": 0,
+        "hoursWatched": 0,
+        "followersGained": 0,
+        "peakViewers": 0,
+        "hoursStreamed": 0,
+        "streams": 0,
+        "gamesPlayed": null
+    },
+    {
+        "nickname": "casimito",
+        "followers": 3829103,
+        "language": "Portuguese",
+        "averageViewers": 14110,
+        "hoursWatched": 1280542,
+        "followersGained": 15053,
+        "peakViewers": 36905,
+        "hoursStreamed": 90,
+        "streams": 14,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 59,
+                "totalWatchTime": 686635,
+                "averageViewers": 11718,
+                "peakViewers": 27200
+            },
+            {
+                "gameName": "Sports",
+                "streamTime": 28,
+                "totalWatchTime": 537210,
+                "averageViewers": 17021,
+                "peakViewers": 36779
+            },
+            {
+                "gameName": "EA Sports FC 24",
+                "streamTime": 5,
+                "totalWatchTime": 83863,
+                "averageViewers": 15973,
+                "peakViewers": 18528
+            },
+            {
+                "gameName": "Supermarket Simulator",
+                "streamTime": 3,
+                "totalWatchTime": 47000,
+                "averageViewers": 12533,
+                "peakViewers": 14984
+            }
+        ]
+    },
+    {
+        "nickname": "TenZ",
+        "followers": 3783260,
+        "language": "English",
+        "averageViewers": 15836,
+        "hoursWatched": 364233,
+        "followersGained": 26973,
+        "peakViewers": 32419,
+        "hoursStreamed": 23,
+        "streams": 6,
+        "gamesPlayed": [
+            {
+                "gameName": "VALORANT",
+                "streamTime": 19,
+                "totalWatchTime": 324950,
+                "averageViewers": 17179,
+                "peakViewers": 30807
+            },
+            {
+                "gameName": "Overwatch 2",
+                "streamTime": 3,
+                "totalWatchTime": 39289,
+                "averageViewers": 10422,
+                "peakViewers": 12687
+            }
+        ]
+    },
+    {
+        "nickname": "NOBRU",
+        "followers": 3718864,
+        "language": "Portuguese",
+        "averageViewers": 0,
+        "hoursWatched": 0,
+        "followersGained": 0,
+        "peakViewers": 0,
+        "hoursStreamed": 0,
+        "streams": 0,
+        "gamesPlayed": null
+    },
+    {
+        "nickname": "Castro_1021",
+        "followers": 3726991,
+        "language": "English",
+        "averageViewers": 3165,
+        "hoursWatched": 114761,
+        "followersGained": 1883,
+        "peakViewers": 10449,
+        "hoursStreamed": 36,
+        "streams": 14,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 16,
+                "totalWatchTime": 42002,
+                "averageViewers": 2739,
+                "peakViewers": 3534
+            },
+            {
+                "gameName": "Sports",
+                "streamTime": 11,
+                "totalWatchTime": 48228,
+                "averageViewers": 4802,
+                "peakViewers": 10126
+            },
+            {
+                "gameName": "EA Sports FC 24",
+                "streamTime": 9,
+                "totalWatchTime": 24540,
+                "averageViewers": 2704,
+                "peakViewers": 3711
+            }
+        ]
+    },
+    {
+        "nickname": "s1mple",
+        "followers": 3696123,
+        "language": "English",
+        "averageViewers": 27508,
+        "hoursWatched": 309474,
+        "followersGained": 21749,
+        "peakViewers": 44286,
+        "hoursStreamed": 11,
+        "streams": 3,
+        "gamesPlayed": [
+            {
+                "gameName": "Counter-Strike",
+                "streamTime": 11,
+                "totalWatchTime": 317651,
+                "averageViewers": 24629,
+                "peakViewers": 42511
+            }
+        ]
+    },
+    {
+        "nickname": "karljacobs",
+        "followers": 3692670,
+        "language": "English",
+        "averageViewers": 3566,
+        "hoursWatched": 34769,
+        "followersGained": -7475,
+        "peakViewers": 14356,
+        "hoursStreamed": 9,
+        "streams": 4,
+        "gamesPlayed": [
+            {
+                "gameName": "Minecraft",
+                "streamTime": 9,
+                "totalWatchTime": 34772,
+                "averageViewers": 4064,
+                "peakViewers": 13968
+            }
+        ]
+    },
+    {
+        "nickname": "Trymacs",
+        "followers": 3535182,
+        "language": "German",
+        "averageViewers": 7790,
+        "hoursWatched": 1616498,
+        "followersGained": 16348,
+        "peakViewers": 29106,
+        "hoursStreamed": 207,
+        "streams": 21,
+        "gamesPlayed": [
+            {
+                "gameName": "Satisfactory",
+                "streamTime": 84,
+                "totalWatchTime": 565896,
+                "averageViewers": 6619,
+                "peakViewers": 12084
+            },
+            {
+                "gameName": "Brawl Stars",
+                "streamTime": 31,
+                "totalWatchTime": 316960,
+                "averageViewers": 9729,
+                "peakViewers": 15305
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 25,
+                "totalWatchTime": 249821,
+                "averageViewers": 7833,
+                "peakViewers": 22422
+            },
+            {
+                "gameName": "Sons of the Forest",
+                "streamTime": 15,
+                "totalWatchTime": 161544,
+                "averageViewers": 9011,
+                "peakViewers": 13406
+            },
+            {
+                "gameName": "Special Events",
+                "streamTime": 14,
+                "totalWatchTime": 149779,
+                "averageViewers": 10864,
+                "peakViewers": 28247
+            },
+            {
+                "gameName": "Fortnite",
+                "streamTime": 11,
+                "totalWatchTime": 58793,
+                "averageViewers": 6686,
+                "peakViewers": 11487
+            },
+            {
+                "gameName": "Unlisted on Twitch",
+                "streamTime": 8,
+                "totalWatchTime": 10033,
+                "averageViewers": 1254,
+                "peakViewers": 2118
+            },
+            {
+                "gameName": "Nightingale",
+                "streamTime": 3,
+                "totalWatchTime": 21985,
+                "averageViewers": 7328,
+                "peakViewers": 7998
+            },
+            {
+                "gameName": "Kebab Chefs!: Restaurant Simulator",
+                "streamTime": 2,
+                "totalWatchTime": 19708,
+                "averageViewers": 7166,
+                "peakViewers": 10133
+            },
+            {
+                "gameName": "Clash of Clans",
+                "streamTime": 2,
+                "totalWatchTime": 14319,
+                "averageViewers": 5014,
+                "peakViewers": 9598
+            },
+            {
+                "gameName": "Expeditions: A MudRunner Game",
+                "streamTime": 2,
+                "totalWatchTime": 18997,
+                "averageViewers": 8443,
+                "peakViewers": 9105
+            },
+            {
+                "gameName": "I'm Only Sleeping",
+                "streamTime": 2,
+                "totalWatchTime": 6879,
+                "averageViewers": 3057,
+                "peakViewers": 4917
+            },
+            {
+                "gameName": "Call of Duty: Warzone Mobile",
+                "streamTime": 2,
+                "totalWatchTime": 14216,
+                "averageViewers": 6318,
+                "peakViewers": 7994
+            },
+            {
+                "gameName": "Minecraft",
+                "streamTime": 1,
+                "totalWatchTime": 6613,
+                "averageViewers": 5291,
+                "peakViewers": 9241
+            }
+        ]
+    },
+    {
+        "nickname": "Asmongold",
+        "followers": 3430784,
+        "language": "English",
+        "averageViewers": 0,
+        "hoursWatched": 0,
+        "followersGained": 0,
+        "peakViewers": 0,
+        "hoursStreamed": 0,
+        "streams": 0,
+        "gamesPlayed": null
+    },
+    {
+        "nickname": "easportsfc",
+        "followers": 3491741,
+        "language": "English",
+        "averageViewers": 14069,
+        "hoursWatched": 260290,
+        "followersGained": 3623,
+        "peakViewers": 37511,
+        "hoursStreamed": 18,
+        "streams": 5,
+        "gamesPlayed": [
+            {
+                "gameName": "EA Sports FC 24",
+                "streamTime": 18,
+                "totalWatchTime": 260295,
+                "averageViewers": 12369,
+                "peakViewers": 35966
+            }
+        ]
+    },
+    {
+        "nickname": "Fernanfloo",
+        "followers": 3308642,
+        "language": "Spanish",
+        "averageViewers": 0,
+        "hoursWatched": 0,
+        "followersGained": 0,
+        "peakViewers": 0,
+        "hoursStreamed": 0,
+        "streams": 0,
+        "gamesPlayed": null
+    },
+    {
+        "nickname": "caseoh_",
+        "followers": 3427924,
+        "language": "English",
+        "averageViewers": 60168,
+        "hoursWatched": 6633524,
+        "followersGained": 579029,
+        "peakViewers": 97350,
+        "hoursStreamed": 110,
+        "streams": 27,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 39,
+                "totalWatchTime": 1804250,
+                "averageViewers": 46095,
+                "peakViewers": 84458
+            },
+            {
+                "gameName": "60 Seconds! Reatomized",
+                "streamTime": 11,
+                "totalWatchTime": 803848,
+                "averageViewers": 68200,
+                "peakViewers": 74590
+            },
+            {
+                "gameName": "Fall Guys",
+                "streamTime": 6,
+                "totalWatchTime": 429793,
+                "averageViewers": 66308,
+                "peakViewers": 86343
+            },
+            {
+                "gameName": "Family Feud",
+                "streamTime": 6,
+                "totalWatchTime": 391182,
+                "averageViewers": 64734,
+                "peakViewers": 73765
+            },
+            {
+                "gameName": "Games + Demos",
+                "streamTime": 5,
+                "totalWatchTime": 373434,
+                "averageViewers": 66739,
+                "peakViewers": 75474
+            },
+            {
+                "gameName": "ROBLOX",
+                "streamTime": 5,
+                "totalWatchTime": 394140,
+                "averageViewers": 67818,
+                "peakViewers": 81599
+            },
+            {
+                "gameName": "A Difficult Game About Climbing",
+                "streamTime": 5,
+                "totalWatchTime": 352125,
+                "averageViewers": 65999,
+                "peakViewers": 72681
+            },
+            {
+                "gameName": "Agar.io",
+                "streamTime": 3,
+                "totalWatchTime": 229579,
+                "averageViewers": 66191,
+                "peakViewers": 85355
+            },
+            {
+                "gameName": "Tom Clancy's Rainbow Six Siege",
+                "streamTime": 3,
+                "totalWatchTime": 183401,
+                "averageViewers": 55925,
+                "peakViewers": 77407
+            },
+            {
+                "gameName": "Superliminal",
+                "streamTime": 2,
+                "totalWatchTime": 180202,
+                "averageViewers": 72081,
+                "peakViewers": 74310
+            },
+            {
+                "gameName": "That's Not My Neighbor",
+                "streamTime": 2,
+                "totalWatchTime": 167976,
+                "averageViewers": 73653,
+                "peakViewers": 78612
+            },
+            {
+                "gameName": "Getting Over It with Bennett Foddy",
+                "streamTime": 2,
+                "totalWatchTime": 134144,
+                "averageViewers": 67072,
+                "peakViewers": 71632
+            },
+            {
+                "gameName": "Contraband Police",
+                "streamTime": 1,
+                "totalWatchTime": 126640,
+                "averageViewers": 71524,
+                "peakViewers": 91156
+            },
+            {
+                "gameName": "Bloody Hallowfest",
+                "streamTime": 1,
+                "totalWatchTime": 112018,
+                "averageViewers": 64010,
+                "peakViewers": 66174
+            },
+            {
+                "gameName": "Hospital 666",
+                "streamTime": 1,
+                "totalWatchTime": 122765,
+                "averageViewers": 69118,
+                "peakViewers": 78157
+            },
+            {
+                "gameName": "Escape the Ayuwoki",
+                "streamTime": 1,
+                "totalWatchTime": 111402,
+                "averageViewers": 74268,
+                "peakViewers": 84294
+            },
+            {
+                "gameName": "Decimate Drive",
+                "streamTime": 1,
+                "totalWatchTime": 85955,
+                "averageViewers": 68764,
+                "peakViewers": 71248
+            },
+            {
+                "gameName": "No Players Online",
+                "streamTime": 1,
+                "totalWatchTime": 91956,
+                "averageViewers": 73564,
+                "peakViewers": 75921
+            },
+            {
+                "gameName": "The Stanley Parable",
+                "streamTime": 1,
+                "totalWatchTime": 89129,
+                "averageViewers": 71303,
+                "peakViewers": 74232
+            },
+            {
+                "gameName": "Backrooms Rec.",
+                "streamTime": 1,
+                "totalWatchTime": 64501,
+                "averageViewers": 64501,
+                "peakViewers": 71128
+            },
+            {
+                "gameName": "Wii Sports Resort",
+                "streamTime": 1,
+                "totalWatchTime": 70260,
+                "averageViewers": 70260,
+                "peakViewers": 70930
+            },
+            {
+                "gameName": "Atta: Spot the Oddities in the Strange Hotel",
+                "streamTime": 1,
+                "totalWatchTime": 62399,
+                "averageViewers": 62399,
+                "peakViewers": 65934
+            },
+            {
+                "gameName": "Welcome to Kowloon",
+                "streamTime": 1,
+                "totalWatchTime": 75786,
+                "averageViewers": 75786,
+                "peakViewers": 80732
+            },
+            {
+                "gameName": "Psalm 5:9-13",
+                "streamTime": 0,
+                "totalWatchTime": 48186,
+                "averageViewers": 64248,
+                "peakViewers": 65226
+            },
+            {
+                "gameName": "Cycle",
+                "streamTime": 0,
+                "totalWatchTime": 50581,
+                "averageViewers": 67442,
+                "peakViewers": 70998
+            }
+        ]
+    },
+    {
+        "nickname": "Cellbit",
+        "followers": 3334746,
+        "language": "Portuguese",
+        "averageViewers": 18009,
+        "hoursWatched": 2390826,
+        "followersGained": 21467,
+        "peakViewers": 36616,
+        "hoursStreamed": 132,
+        "streams": 21,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 33,
+                "totalWatchTime": 530501,
+                "averageViewers": 15668,
+                "peakViewers": 30145
+            },
+            {
+                "gameName": "Hollow Knight",
+                "streamTime": 16,
+                "totalWatchTime": 344691,
+                "averageViewers": 21257,
+                "peakViewers": 26535
+            },
+            {
+                "gameName": "A Difficult Game About Climbing",
+                "streamTime": 10,
+                "totalWatchTime": 202028,
+                "averageViewers": 19216,
+                "peakViewers": 24417
+            },
+            {
+                "gameName": "Dragon's Dogma II",
+                "streamTime": 9,
+                "totalWatchTime": 127847,
+                "averageViewers": 16769,
+                "peakViewers": 22687
+            },
+            {
+                "gameName": "GuessTheGame",
+                "streamTime": 6,
+                "totalWatchTime": 87439,
+                "averageViewers": 10325,
+                "peakViewers": 16367
+            },
+            {
+                "gameName": "Minecraft",
+                "streamTime": 5,
+                "totalWatchTime": 112422,
+                "averageViewers": 19754,
+                "peakViewers": 26536
+            },
+            {
+                "gameName": "REVEIL",
+                "streamTime": 4,
+                "totalWatchTime": 62779,
+                "averageViewers": 14450,
+                "peakViewers": 21141
+            },
+            {
+                "gameName": "Fruit Mountain",
+                "streamTime": 3,
+                "totalWatchTime": 61288,
+                "averageViewers": 17635,
+                "peakViewers": 21772
+            },
+            {
+                "gameName": "Boxes: Lost Fragments",
+                "streamTime": 3,
+                "totalWatchTime": 37813,
+                "averageViewers": 11634,
+                "peakViewers": 16284
+            },
+            {
+                "gameName": "Beauty \u0026 Body Art",
+                "streamTime": 3,
+                "totalWatchTime": 71940,
+                "averageViewers": 23463,
+                "peakViewers": 27286
+            },
+            {
+                "gameName": "Terror at Oakheart",
+                "streamTime": 2,
+                "totalWatchTime": 52801,
+                "averageViewers": 19200,
+                "peakViewers": 22804
+            },
+            {
+                "gameName": "BUCKSHOT ROULETTE",
+                "streamTime": 2,
+                "totalWatchTime": 71810,
+                "averageViewers": 25867,
+                "peakViewers": 31683
+            },
+            {
+                "gameName": "Hospital 666",
+                "streamTime": 2,
+                "totalWatchTime": 50203,
+                "averageViewers": 20078,
+                "peakViewers": 20938
+            },
+            {
+                "gameName": "TETR.IO",
+                "streamTime": 2,
+                "totalWatchTime": 34806,
+                "averageViewers": 17915,
+                "peakViewers": 26776
+            },
+            {
+                "gameName": "Decimate Drive",
+                "streamTime": 1,
+                "totalWatchTime": 29961,
+                "averageViewers": 17184,
+                "peakViewers": 17763
+            },
+            {
+                "gameName": "Among Us",
+                "streamTime": 1,
+                "totalWatchTime": 38123,
+                "averageViewers": 21784,
+                "peakViewers": 22723
+            },
+            {
+                "gameName": "Goose Goose Duck",
+                "streamTime": 1,
+                "totalWatchTime": 27397,
+                "averageViewers": 15655,
+                "peakViewers": 16478
+            },
+            {
+                "gameName": "Run Pizza Run",
+                "streamTime": 1,
+                "totalWatchTime": 33722,
+                "averageViewers": 19269,
+                "peakViewers": 20117
+            },
+            {
+                "gameName": "Infinite Craft",
+                "streamTime": 1,
+                "totalWatchTime": 41627,
+                "averageViewers": 27751,
+                "peakViewers": 28726
+            },
+            {
+                "gameName": "Pacific Drive",
+                "streamTime": 1,
+                "totalWatchTime": 31112,
+                "averageViewers": 25059,
+                "peakViewers": 27098
+            },
+            {
+                "gameName": "CHIYO",
+                "streamTime": 1,
+                "totalWatchTime": 22655,
+                "averageViewers": 18353,
+                "peakViewers": 20413
+            },
+            {
+                "gameName": "Please, Touch The Artwork 2",
+                "streamTime": 1,
+                "totalWatchTime": 27126,
+                "averageViewers": 20852,
+                "peakViewers": 26288
+            },
+            {
+                "gameName": "Atta: Spot the Oddities in the Strange Hotel",
+                "streamTime": 1,
+                "totalWatchTime": 20364,
+                "averageViewers": 16291,
+                "peakViewers": 17467
+            },
+            {
+                "gameName": "Balatro",
+                "streamTime": 1,
+                "totalWatchTime": 18204,
+                "averageViewers": 18204,
+                "peakViewers": 19769
+            },
+            {
+                "gameName": "The Outlast Trials",
+                "streamTime": 1,
+                "totalWatchTime": 23980,
+                "averageViewers": 23980,
+                "peakViewers": 24978
+            }
+        ]
+    },
+    {
+        "nickname": "Staryuuki",
+        "followers": 3315848,
+        "language": "Spanish",
+        "averageViewers": 2896,
+        "hoursWatched": 430849,
+        "followersGained": 19311,
+        "peakViewers": 6065,
+        "hoursStreamed": 148,
+        "streams": 20,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 58,
+                "totalWatchTime": 146307,
+                "averageViewers": 2116,
+                "peakViewers": 5395
+            },
+            {
+                "gameName": "Food \u0026 Drink",
+                "streamTime": 21,
+                "totalWatchTime": 70520,
+                "averageViewers": 3424,
+                "peakViewers": 5555
+            },
+            {
+                "gameName": "ASMR",
+                "streamTime": 12,
+                "totalWatchTime": 37838,
+                "averageViewers": 3254,
+                "peakViewers": 4232
+            },
+            {
+                "gameName": "Winning Eleven: Pro Evolution Soccer 2007",
+                "streamTime": 12,
+                "totalWatchTime": 35923,
+                "averageViewers": 2980,
+                "peakViewers": 4757
+            },
+            {
+                "gameName": "Detroit: Become Human",
+                "streamTime": 9,
+                "totalWatchTime": 25728,
+                "averageViewers": 2661,
+                "peakViewers": 3664
+            },
+            {
+                "gameName": "Just Dance 2024 Edition",
+                "streamTime": 8,
+                "totalWatchTime": 34787,
+                "averageViewers": 3996,
+                "peakViewers": 5681
+            },
+            {
+                "gameName": "Fitness \u0026 Health",
+                "streamTime": 8,
+                "totalWatchTime": 26244,
+                "averageViewers": 2774,
+                "peakViewers": 4242
+            },
+            {
+                "gameName": "Until Dawn",
+                "streamTime": 7,
+                "totalWatchTime": 19312,
+                "averageViewers": 2661,
+                "peakViewers": 2953
+            },
+            {
+                "gameName": "Just Dance 2022",
+                "streamTime": 4,
+                "totalWatchTime": 17593,
+                "averageViewers": 4398,
+                "peakViewers": 5044
+            },
+            {
+                "gameName": "Fortnite",
+                "streamTime": 3,
+                "totalWatchTime": 7177,
+                "averageViewers": 2392,
+                "peakViewers": 2779
+            },
+            {
+                "gameName": "Fears to Fathom: Ironbark Lookout",
+                "streamTime": 2,
+                "totalWatchTime": 5735,
+                "averageViewers": 2294,
+                "peakViewers": 2702
+            },
+            {
+                "gameName": "Grand Theft Auto: Vice City - The Definitive Edition",
+                "streamTime": 2,
+                "totalWatchTime": 5873,
+                "averageViewers": 2610,
+                "peakViewers": 2831
+            },
+            {
+                "gameName": "Super Mario Bros. 3",
+                "streamTime": 1,
+                "totalWatchTime": 4901,
+                "averageViewers": 2800,
+                "peakViewers": 2874
+            },
+            {
+                "gameName": "Makers \u0026 Crafting",
+                "streamTime": 1,
+                "totalWatchTime": 3629,
+                "averageViewers": 2903,
+                "peakViewers": 3046
+            },
+            {
+                "gameName": "Getting Over It with Bennett Foddy",
+                "streamTime": 1,
+                "totalWatchTime": 3883,
+                "averageViewers": 3106,
+                "peakViewers": 3237
+            }
+        ]
+    },
+    {
+        "nickname": "xCry",
+        "followers": 3249479,
+        "language": "Spanish",
+        "averageViewers": 12593,
+        "hoursWatched": 425034,
+        "followersGained": 20325,
+        "peakViewers": 22036,
+        "hoursStreamed": 33,
+        "streams": 14,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 27,
+                "totalWatchTime": 362031,
+                "averageViewers": 12640,
+                "peakViewers": 22036
+            },
+            {
+                "gameName": "Supermarket Simulator",
+                "streamTime": 6,
+                "totalWatchTime": 63013,
+                "averageViewers": 10014,
+                "peakViewers": 13801
+            }
+        ]
+    },
+    {
+        "nickname": "Alexby11",
+        "followers": 3248786,
+        "language": "Spanish",
+        "averageViewers": 655,
+        "hoursWatched": 30167,
+        "followersGained": -3499,
+        "peakViewers": 1908,
+        "hoursStreamed": 46,
+        "streams": 10,
+        "gamesPlayed": [
+            {
+                "gameName": "Counter-Strike",
+                "streamTime": 17,
+                "totalWatchTime": 10786,
+                "averageViewers": 665,
+                "peakViewers": 1780
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 7,
+                "totalWatchTime": 3449,
+                "averageViewers": 402,
+                "peakViewers": 1438
+            },
+            {
+                "gameName": "Dragon's Dogma II",
+                "streamTime": 7,
+                "totalWatchTime": 5524,
+                "averageViewers": 789,
+                "peakViewers": 1228
+            },
+            {
+                "gameName": "Sekiro: Shadows Die Twice",
+                "streamTime": 6,
+                "totalWatchTime": 3604,
+                "averageViewers": 500,
+                "peakViewers": 960
+            },
+            {
+                "gameName": "Star Wars: Episode III - Revenge of the Sith",
+                "streamTime": 4,
+                "totalWatchTime": 2508,
+                "averageViewers": 469,
+                "peakViewers": 1094
+            },
+            {
+                "gameName": "Gartic Phone",
+                "streamTime": 3,
+                "totalWatchTime": 3461,
+                "averageViewers": 1065,
+                "peakViewers": 1316
+            },
+            {
+                "gameName": "A Difficult Game About Climbing",
+                "streamTime": 2,
+                "totalWatchTime": 1655,
+                "averageViewers": 702,
+                "peakViewers": 944
+            },
+            {
+                "gameName": "Brawlhalla",
+                "streamTime": 1,
+                "totalWatchTime": 968,
+                "averageViewers": 553,
+                "peakViewers": 621
+            }
+        ]
+    },
+    {
+        "nickname": "Sapnap",
+        "followers": 3245555,
+        "language": "English",
+        "averageViewers": 4243,
+        "hoursWatched": 11668,
+        "followersGained": -1595,
+        "peakViewers": 6993,
+        "hoursStreamed": 2,
+        "streams": 2,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 2,
+                "totalWatchTime": 11670,
+                "averageViewers": 3782,
+                "peakViewers": 6811
+            }
+        ]
+    },
+    {
+        "nickname": "IamCristinini",
+        "followers": 3221384,
+        "language": "Spanish",
+        "averageViewers": 4461,
+        "hoursWatched": 325658,
+        "followersGained": -303,
+        "peakViewers": 63002,
+        "hoursStreamed": 73,
+        "streams": 16,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 27,
+                "totalWatchTime": 33186,
+                "averageViewers": 1178,
+                "peakViewers": 2505
+            },
+            {
+                "gameName": "Supermarket Simulator",
+                "streamTime": 23,
+                "totalWatchTime": 48823,
+                "averageViewers": 2098,
+                "peakViewers": 2803
+            },
+            {
+                "gameName": "Age of Empires II",
+                "streamTime": 7,
+                "totalWatchTime": 10809,
+                "averageViewers": 1469,
+                "peakViewers": 1808
+            },
+            {
+                "gameName": "Special Events",
+                "streamTime": 6,
+                "totalWatchTime": 223673,
+                "averageViewers": 34411,
+                "peakViewers": 61969
+            },
+            {
+                "gameName": "League of Legends",
+                "streamTime": 6,
+                "totalWatchTime": 6550,
+                "averageViewers": 1067,
+                "peakViewers": 1235
+            },
+            {
+                "gameName": "Little Misfortune",
+                "streamTime": 3,
+                "totalWatchTime": 4405,
+                "averageViewers": 1258,
+                "peakViewers": 1542
+            },
+            {
+                "gameName": "Tomb Raider I•II•III Remastered",
+                "streamTime": 1,
+                "totalWatchTime": 2098,
+                "averageViewers": 1199,
+                "peakViewers": 1297
+            },
+            {
+                "gameName": "Chess",
+                "streamTime": 0,
+                "totalWatchTime": 622,
+                "averageViewers": 1245,
+                "peakViewers": 1250
+            }
+        ]
+    },
+    {
+        "nickname": "gabelulz",
+        "followers": 0,
+        "language": "",
+        "averageViewers": 2513510,
+        "hoursWatched": 422269727,
+        "followersGained": 0,
+        "peakViewers": 4600398,
+        "hoursStreamed": 0,
+        "streams": 5676062,
+        "gamesPlayed": null
+    },
+    {
+        "nickname": "x2Twins",
+        "followers": 3183032,
+        "language": "English",
+        "averageViewers": 1567,
+        "hoursWatched": 18422,
+        "followersGained": 676,
+        "peakViewers": 3430,
+        "hoursStreamed": 11,
+        "streams": 2,
+        "gamesPlayed": [
+            {
+                "gameName": "Fortnite",
+                "streamTime": 11,
+                "totalWatchTime": 18423,
+                "averageViewers": 1458,
+                "peakViewers": 3377
+            }
+        ]
+    },
+    {
+        "nickname": "biyin_",
+        "followers": 3166960,
+        "language": "Spanish",
+        "averageViewers": 3660,
+        "hoursWatched": 128122,
+        "followersGained": -1530,
+        "peakViewers": 9754,
+        "hoursStreamed": 35,
+        "streams": 13,
+        "gamesPlayed": [
+            {
+                "gameName": "Grand Theft Auto V",
+                "streamTime": 22,
+                "totalWatchTime": 99434,
+                "averageViewers": 4393,
+                "peakViewers": 9306
+            },
+            {
+                "gameName": "Supermarket Simulator",
+                "streamTime": 8,
+                "totalWatchTime": 18950,
+                "averageViewers": 2253,
+                "peakViewers": 5881
+            },
+            {
+                "gameName": "The Outlast Trials",
+                "streamTime": 2,
+                "totalWatchTime": 3938,
+                "averageViewers": 1750,
+                "peakViewers": 2730
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 1,
+                "totalWatchTime": 5873,
+                "averageViewers": 3915,
+                "peakViewers": 6912
+            }
+        ]
+    },
+    {
+        "nickname": "mogulmoves",
+        "followers": 3154696,
+        "language": "English",
+        "averageViewers": 6969,
+        "hoursWatched": 13939,
+        "followersGained": -723,
+        "peakViewers": 8016,
+        "hoursStreamed": 2,
+        "streams": 1,
+        "gamesPlayed": [
+            {
+                "gameName": "Special Events",
+                "streamTime": 2,
+                "totalWatchTime": 13940,
+                "averageViewers": 6970,
+                "peakViewers": 7686
+            }
+        ]
+    },
+    {
+        "nickname": "Syndicate",
+        "followers": 3119862,
+        "language": "English",
+        "averageViewers": 0,
+        "hoursWatched": 0,
+        "followersGained": 0,
+        "peakViewers": 0,
+        "hoursStreamed": 0,
+        "streams": 0,
+        "gamesPlayed": null
+    },
+    {
+        "nickname": "Aydan",
+        "followers": 3080339,
+        "language": "English",
+        "averageViewers": 4881,
+        "hoursWatched": 1113044,
+        "followersGained": 18859,
+        "peakViewers": 14093,
+        "hoursStreamed": 228,
+        "streams": 24,
+        "gamesPlayed": [
+            {
+                "gameName": "Call of Duty: Warzone",
+                "streamTime": 212,
+                "totalWatchTime": 1076744,
+                "averageViewers": 5041,
+                "peakViewers": 13276
+            },
+            {
+                "gameName": "Call of Duty: Modern Warfare III",
+                "streamTime": 12,
+                "totalWatchTime": 41061,
+                "averageViewers": 3578,
+                "peakViewers": 6363
+            },
+            {
+                "gameName": "World of Warcraft",
+                "streamTime": 6,
+                "totalWatchTime": 14006,
+                "averageViewers": 2243,
+                "peakViewers": 3384
+            },
+            {
+                "gameName": "Apex Legends",
+                "streamTime": 5,
+                "totalWatchTime": 19303,
+                "averageViewers": 3415,
+                "peakViewers": 4664
+            },
+            {
+                "gameName": "Call of Duty: Modern Warfare 3",
+                "streamTime": 0,
+                "totalWatchTime": 880,
+                "averageViewers": 3522,
+                "peakViewers": 3522
+            }
+        ]
+    },
+    {
+        "nickname": "kingsleague",
+        "followers": 3072239,
+        "language": "Spanish",
+        "averageViewers": 33238,
+        "hoursWatched": 2202045,
+        "followersGained": 28142,
+        "peakViewers": 79204,
+        "hoursStreamed": 66,
+        "streams": 12,
+        "gamesPlayed": [
+            {
+                "gameName": "Sports",
+                "streamTime": 66,
+                "totalWatchTime": 2203384,
+                "averageViewers": 36861,
+                "peakViewers": 74413
+            }
+        ]
+    },
+    {
+        "nickname": "tarik",
+        "followers": 3034767,
+        "language": "English",
+        "averageViewers": 45750,
+        "hoursWatched": 8772633,
+        "followersGained": 67529,
+        "peakViewers": 174044,
+        "hoursStreamed": 191,
+        "streams": 25,
+        "gamesPlayed": [
+            {
+                "gameName": "VALORANT",
+                "streamTime": 190,
+                "totalWatchTime": 8767409,
+                "averageViewers": 42122,
+                "peakViewers": 166930
+            },
+            {
+                "gameName": "Nightingale",
+                "streamTime": 2,
+                "totalWatchTime": 20581,
+                "averageViewers": 9147,
+                "peakViewers": 15546
+            }
+        ]
+    },
+    {
+        "nickname": "stableronaldo",
+        "followers": 3000280,
+        "language": "English",
+        "averageViewers": 6026,
+        "hoursWatched": 789417,
+        "followersGained": 42868,
+        "peakViewers": 14780,
+        "hoursStreamed": 131,
+        "streams": 18,
+        "gamesPlayed": [
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 66,
+                "totalWatchTime": 359013,
+                "averageViewers": 5136,
+                "peakViewers": 10630
+            },
+            {
+                "gameName": "Fortnite",
+                "streamTime": 39,
+                "totalWatchTime": 287895,
+                "averageViewers": 6767,
+                "peakViewers": 13721
+            },
+            {
+                "gameName": "ROBLOX",
+                "streamTime": 5,
+                "totalWatchTime": 35694,
+                "averageViewers": 5940,
+                "peakViewers": 7963
+            },
+            {
+                "gameName": "Skate 3",
+                "streamTime": 5,
+                "totalWatchTime": 25487,
+                "averageViewers": 4891,
+                "peakViewers": 6446
+            },
+            {
+                "gameName": "Getting Over It with Bennett Foddy",
+                "streamTime": 4,
+                "totalWatchTime": 18715,
+                "averageViewers": 4644,
+                "peakViewers": 7591
+            },
+            {
+                "gameName": "A Difficult Game About Climbing",
+                "streamTime": 3,
+                "totalWatchTime": 14669,
+                "averageViewers": 5039,
+                "peakViewers": 5697
+            },
+            {
+                "gameName": "Minecraft",
+                "streamTime": 2,
+                "totalWatchTime": 8735,
+                "averageViewers": 4193,
+                "peakViewers": 4814
+            },
+            {
+                "gameName": "VALORANT",
+                "streamTime": 2,
+                "totalWatchTime": 11178,
+                "averageViewers": 5389,
+                "peakViewers": 5953
+            },
+            {
+                "gameName": "KinitoPET",
+                "streamTime": 1,
+                "totalWatchTime": 11481,
+                "averageViewers": 6561,
+                "peakViewers": 7150
+            },
+            {
+                "gameName": "VRChat",
+                "streamTime": 1,
+                "totalWatchTime": 10116,
+                "averageViewers": 5718,
+                "peakViewers": 6791
+            },
+            {
+                "gameName": "Rec Room",
+                "streamTime": 1,
+                "totalWatchTime": 5122,
+                "averageViewers": 5122,
+                "peakViewers": 5822
+            },
+            {
+                "gameName": "Among Us VR",
+                "streamTime": 0,
+                "totalWatchTime": 4681,
+                "averageViewers": 6242,
+                "peakViewers": 6584
+            },
+            {
+                "gameName": "Bloxorz",
+                "streamTime": 0,
+                "totalWatchTime": 3551,
+                "averageViewers": 4735,
+                "peakViewers": 4970
+            },
+            {
+                "gameName": "Supermarket Simulator",
+                "streamTime": 0,
+                "totalWatchTime": 2835,
+                "averageViewers": 5671,
+                "peakViewers": 5881
+            },
+            {
+                "gameName": "Rust",
+                "streamTime": 0,
+                "totalWatchTime": 2936,
+                "averageViewers": 5873,
+                "peakViewers": 6241
+            },
+            {
+                "gameName": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+                "streamTime": 0,
+                "totalWatchTime": 3096,
+                "averageViewers": 6193,
+                "peakViewers": 6270
+            },
+            {
+                "gameName": "Bloons TD 6",
+                "streamTime": 0,
+                "totalWatchTime": 2795,
+                "averageViewers": 5591,
+                "peakViewers": 5691
+            },
+            {
+                "gameName": "Counter-Strike",
+                "streamTime": 0,
+                "totalWatchTime": 1368,
+                "averageViewers": 5472,
+                "peakViewers": 5472
+            },
+            {
+                "gameName": "Portal 2",
+                "streamTime": 0,
+                "totalWatchTime": 922,
+                "averageViewers": 3690,
+                "peakViewers": 3690
+            }
+        ]
+    },
+    {
+        "nickname": "Jelty",
+        "followers": 2992005,
+        "language": "Spanish",
+        "averageViewers": 2803,
+        "hoursWatched": 23826,
+        "followersGained": 1132,
+        "peakViewers": 5024,
+        "hoursStreamed": 8,
+        "streams": 2,
+        "gamesPlayed": [
+            {
+                "gameName": "Fortnite",
+                "streamTime": 8,
+                "totalWatchTime": 23829,
+                "averageViewers": 2803,
+                "peakViewers": 4796
+            }
+        ]
+    },
+    {
+        "nickname": "LIRIK",
+        "followers": 2963378,
+        "language": "English",
+        "averageViewers": 18035,
+        "hoursWatched": 2813509,
+        "followersGained": 1492,
+        "peakViewers": 36933,
+        "hoursStreamed": 156,
+        "streams": 24,
+        "gamesPlayed": [
+            {
+                "gameName": "ELDEN RING",
+                "streamTime": 32,
+                "totalWatchTime": 558631,
+                "averageViewers": 17081,
+                "peakViewers": 21527
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 17,
+                "totalWatchTime": 184604,
+                "averageViewers": 7625,
+                "peakViewers": 22436
+            },
+            {
+                "gameName": "A Difficult Game About Climbing",
+                "streamTime": 16,
+                "totalWatchTime": 326175,
+                "averageViewers": 20648,
+                "peakViewers": 24794
+            },
+            {
+                "gameName": "Dragon's Dogma II",
+                "streamTime": 9,
+                "totalWatchTime": 150595,
+                "averageViewers": 17211,
+                "peakViewers": 23032
+            },
+            {
+                "gameName": "DayZ",
+                "streamTime": 7,
+                "totalWatchTime": 151804,
+                "averageViewers": 19967,
+                "peakViewers": 22434
+            },
+            {
+                "gameName": "Last Epoch",
+                "streamTime": 7,
+                "totalWatchTime": 120908,
+                "averageViewers": 16953,
+                "peakViewers": 20860
+            },
+            {
+                "gameName": "Deep Rock Galactic: Survivor",
+                "streamTime": 7,
+                "totalWatchTime": 124997,
+                "averageViewers": 13524,
+                "peakViewers": 21190
+            },
+            {
+                "gameName": "Ghost of Tsushima",
+                "streamTime": 4,
+                "totalWatchTime": 70405,
+                "averageViewers": 16566,
+                "peakViewers": 19579
+            },
+            {
+                "gameName": "Supermarket Simulator",
+                "streamTime": 3,
+                "totalWatchTime": 82006,
+                "averageViewers": 21605,
+                "peakViewers": 23750
+            },
+            {
+                "gameName": "Oh Deer",
+                "streamTime": 3,
+                "totalWatchTime": 94023,
+                "averageViewers": 26863,
+                "peakViewers": 30383
+            },
+            {
+                "gameName": "Rise of the Ronin",
+                "streamTime": 3,
+                "totalWatchTime": 52521,
+                "averageViewers": 17507,
+                "peakViewers": 20242
+            },
+            {
+                "gameName": "DARK SOULS III",
+                "streamTime": 3,
+                "totalWatchTime": 57339,
+                "averageViewers": 19113,
+                "peakViewers": 21290
+            },
+            {
+                "gameName": "Balatro",
+                "streamTime": 3,
+                "totalWatchTime": 48882,
+                "averageViewers": 16293,
+                "peakViewers": 22762
+            },
+            {
+                "gameName": "No Rest for the Wicked",
+                "streamTime": 2,
+                "totalWatchTime": 43322,
+                "averageViewers": 15753,
+                "peakViewers": 19427
+            },
+            {
+                "gameName": "Backpack Battles",
+                "streamTime": 2,
+                "totalWatchTime": 51053,
+                "averageViewers": 20421,
+                "peakViewers": 24988
+            },
+            {
+                "gameName": "Sons of the Forest",
+                "streamTime": 2,
+                "totalWatchTime": 35547,
+                "averageViewers": 17773,
+                "peakViewers": 20184
+            },
+            {
+                "gameName": "Vindictus: Defying Fate",
+                "streamTime": 2,
+                "totalWatchTime": 37802,
+                "averageViewers": 18901,
+                "peakViewers": 19845
+            },
+            {
+                "gameName": "Lazaret",
+                "streamTime": 2,
+                "totalWatchTime": 47174,
+                "averageViewers": 22665,
+                "peakViewers": 27496
+            },
+            {
+                "gameName": "TEKKEN 8",
+                "streamTime": 1,
+                "totalWatchTime": 26456,
+                "averageViewers": 15117,
+                "peakViewers": 17519
+            },
+            {
+                "gameName": "The Outlast Trials",
+                "streamTime": 1,
+                "totalWatchTime": 25815,
+                "averageViewers": 14751,
+                "peakViewers": 17651
+            },
+            {
+                "gameName": "World of Warcraft",
+                "streamTime": 1,
+                "totalWatchTime": 26888,
+                "averageViewers": 15364,
+                "peakViewers": 16057
+            },
+            {
+                "gameName": "Dark and Darker",
+                "streamTime": 1,
+                "totalWatchTime": 36941,
+                "averageViewers": 21109,
+                "peakViewers": 22796
+            },
+            {
+                "gameName": "Level Zero: Extraction",
+                "streamTime": 1,
+                "totalWatchTime": 36055,
+                "averageViewers": 20603,
+                "peakViewers": 21616
+            },
+            {
+                "gameName": "Battlefield Hardline",
+                "streamTime": 1,
+                "totalWatchTime": 34268,
+                "averageViewers": 22845,
+                "peakViewers": 23545
+            },
+            {
+                "gameName": "Out of Action",
+                "streamTime": 1,
+                "totalWatchTime": 23122,
+                "averageViewers": 15415,
+                "peakViewers": 17394
+            }
+        ]
+    },
+    {
+        "nickname": "LOLITOFDEZ",
+        "followers": 2951170,
+        "language": "Spanish",
+        "averageViewers": 1586,
+        "hoursWatched": 11503,
+        "followersGained": 643,
+        "peakViewers": 2467,
+        "hoursStreamed": 7,
+        "streams": 2,
+        "gamesPlayed": [
+            {
+                "gameName": "Counter-Strike",
+                "streamTime": 7,
+                "totalWatchTime": 11506,
+                "averageViewers": 1582,
+                "peakViewers": 2297
+            }
+        ]
+    },
+    {
+        "nickname": "Loserfruit",
+        "followers": 2930889,
+        "language": "English",
+        "averageViewers": 939,
+        "hoursWatched": 135007,
+        "followersGained": 7053,
+        "peakViewers": 2669,
+        "hoursStreamed": 143,
+        "streams": 22,
+        "gamesPlayed": [
+            {
+                "gameName": "Fortnite",
+                "streamTime": 68,
+                "totalWatchTime": 70689,
+                "averageViewers": 911,
+                "peakViewers": 2602
+            },
+            {
+                "gameName": "Palworld",
+                "streamTime": 33,
+                "totalWatchTime": 23909,
+                "averageViewers": 723,
+                "peakViewers": 1690
+            },
+            {
+                "gameName": "Just Chatting",
+                "streamTime": 15,
+                "totalWatchTime": 17198,
+                "averageViewers": 755,
+                "peakViewers": 2365
+            },
+            {
+                "gameName": "Grand Theft Auto V",
+                "streamTime": 10,
+                "totalWatchTime": 10302,
+                "averageViewers": 981,
+                "peakViewers": 1169
+            },
+            {
+                "gameName": "Princess Peach: Showtime!",
+                "streamTime": 5,
+                "totalWatchTime": 4691,
+                "averageViewers": 815,
+                "peakViewers": 949
+            },
+            {
+                "gameName": "The Universim",
+                "streamTime": 4,
+                "totalWatchTime": 3390,
+                "averageViewers": 898,
+                "peakViewers": 979
+            },
+            {
+                "gameName": "Among Us",
+                "streamTime": 2,
+                "totalWatchTime": 2048,
+                "averageViewers": 732,
+                "peakViewers": 809
+            },
+            {
+                "gameName": "A Difficult Game About Climbing",
+                "streamTime": 2,
+                "totalWatchTime": 1856,
+                "averageViewers": 825,
+                "peakViewers": 849
+            },
+            {
+                "gameName": "Last Minute Shopping",
+                "streamTime": 1,
+                "totalWatchTime": 1034,
+                "averageViewers": 1034,
+                "peakViewers": 1096
+            }
+        ]
+    }
+]

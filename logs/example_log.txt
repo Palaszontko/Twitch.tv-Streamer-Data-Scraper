@@ -1,0 +1,305 @@
+[LOG] 15:45:54 Config file opened successfully.
+[LOG] 15:45:54 Scrapper started.
+[LOG] 15:45:54 Nicknames file opened successfully.
+[LOG] 15:45:54 Scrapper started for:  Ninja ( 1 / 100 )
+[LOG] 15:45:54 Streamer data scrapped.
+[LOG] 15:45:54 Games data scrapped.
+[LOG] 15:45:54 Scrapper started for:  auronplay ( 2 / 100 )
+[LOG] 15:45:55 Streamer data scrapped.
+[LOG] 15:45:55 Games data scrapped.
+[LOG] 15:45:55 Scrapper started for:  ibai ( 3 / 100 )
+[LOG] 15:45:55 Streamer data scrapped.
+[LOG] 15:45:55 Games data scrapped.
+[LOG] 15:45:55 Scrapper started for:  Rubius ( 4 / 100 )
+[LOG] 15:45:55 Streamer data scrapped.
+[LOG] 15:45:56 Games data scrapped.
+[LOG] 15:45:56 Scrapper started for:  xQc ( 5 / 100 )
+[LOG] 15:45:56 Streamer data scrapped.
+[LOG] 15:45:56 Games data scrapped.
+[LOG] 15:45:56 Scrapper started for:  TheGrefg ( 6 / 100 )
+[LOG] 15:45:56 Streamer data scrapped.
+[LOG] 15:45:57 Games data scrapped.
+[LOG] 15:45:57 Scrapper started for:  Tfue ( 7 / 100 )
+[LOG] 15:45:57 Streamer data scrapped.
+[LOG] 15:45:57 Games data scrapped.
+[LOG] 15:45:57 Scrapper started for:  juansguarnizo ( 8 / 100 )
+[LOG] 15:45:57 Streamer data scrapped.
+[LOG] 15:45:58 Games data scrapped.
+[LOG] 15:45:58 Scrapper started for:  shroud ( 9 / 100 )
+[LOG] 15:45:58 Streamer data scrapped.
+[LOG] 15:45:58 Games data scrapped.
+[LOG] 15:45:58 Scrapper started for:  ElMariana ( 10 / 100 )
+[LOG] 15:45:58 Streamer data scrapped.
+[LOG] 15:45:58 Games data scrapped.
+[LOG] 15:45:58 Scrapper started for:  KaiCenat ( 11 / 100 )
+[LOG] 15:45:59 Streamer data scrapped.
+[LOG] 15:45:59 Games data scrapped.
+[LOG] 15:45:59 Scrapper started for:  pokimane ( 12 / 100 )
+[LOG] 15:45:59 Streamer data scrapped.
+[LOG] 15:45:59 Games data scrapped.
+[LOG] 15:45:59 Scrapper started for:  ElSpreen ( 13 / 100 )
+[LOG] 15:45:59 Streamer data scrapped.
+[LOG] 15:46:00 Games data scrapped.
+[LOG] 15:46:00 Scrapper started for:  sodapoppin ( 14 / 100 )
+[LOG] 15:46:00 Streamer data scrapped.
+[LOG] 15:46:00 Games data scrapped.
+[LOG] 15:46:00 Scrapper started for:  Heelmike ( 15 / 100 )
+[LOG] 15:46:00 Streamer data scrapped.
+[LOG] 15:46:01 Games data scrapped.
+[LOG] 15:46:01 Scrapper started for:  tommyinnit ( 16 / 100 )
+[LOG] 15:46:01 Streamer data scrapped.
+[LOG] 15:46:01 Games data scrapped.
+[LOG] 15:46:01 Scrapper started for:  Clix ( 17 / 100 )
+[LOG] 15:46:01 Streamer data scrapped.
+[LOG] 15:46:01 Games data scrapped.
+[LOG] 15:46:01 Scrapper started for:  Myth ( 18 / 100 )
+[LOG] 15:46:02 Streamer data scrapped.
+[LOG] 15:46:02 Games data scrapped.
+[LOG] 15:46:02 Scrapper started for:  AdinRoss ( 19 / 100 )
+[LOG] 15:46:02 Streamer data scrapped.
+[LOG] 15:46:02 Games data scrapped.
+[LOG] 15:46:02 Scrapper started for:  alanzoka ( 20 / 100 )
+[LOG] 15:46:03 Streamer data scrapped.
+[LOG] 15:46:03 Games data scrapped.
+[LOG] 15:46:03 Scrapper started for:  TimTheTatman ( 21 / 100 )
+[LOG] 15:46:03 Streamer data scrapped.
+[LOG] 15:46:03 Games data scrapped.
+[LOG] 15:46:03 Scrapper started for:  SypherPK ( 22 / 100 )
+[LOG] 15:46:03 Streamer data scrapped.
+[LOG] 15:46:04 Games data scrapped.
+[LOG] 15:46:04 Scrapper started for:  AriGameplays ( 23 / 100 )
+[LOG] 15:46:04 Streamer data scrapped.
+[LOG] 15:46:04 Games data scrapped.
+[LOG] 15:46:04 Scrapper started for:  Riot Games ( 24 / 100 )
+[LOG] 15:46:04 Streamer data scrapped.
+[LOG] 15:46:05 Games data scrapped.
+[LOG] 15:46:05 Scrapper started for:  Mongraal ( 25 / 100 )
+[LOG] 15:46:05 Streamer data scrapped.
+[LOG] 15:46:05 Games data scrapped.
+[LOG] 15:46:05 Scrapper started for:  NICKMERCS ( 26 / 100 )
+[LOG] 15:46:05 Streamer data scrapped.
+[LOG] 15:46:06 Games data scrapped.
+[LOG] 15:46:06 Scrapper started for:  Quackity ( 27 / 100 )
+[LOG] 15:46:06 Streamer data scrapped.
+[LOG] 15:46:06 Games data scrapped.
+[LOG] 15:46:06 Scrapper started for:  AMOURANTH ( 28 / 100 )
+[LOG] 15:46:06 Streamer data scrapped.
+[LOG] 15:46:07 Games data scrapped.
+[LOG] 15:46:07 Scrapper started for:  Dream ( 29 / 100 )
+[LOG] 15:46:07 Streamer data scrapped.
+[LOG] 15:46:07 Games data scrapped.
+[LOG] 15:46:07 Scrapper started for:  ESLCS ( 30 / 100 )
+[LOG] 15:46:07 Streamer data scrapped.
+[LOG] 15:46:08 Games data scrapped.
+[LOG] 15:46:08 Scrapper started for:  summit1g ( 31 / 100 )
+[LOG] 15:46:08 Streamer data scrapped.
+[LOG] 15:46:08 Games data scrapped.
+[LOG] 15:46:08 Scrapper started for:  rivers_gg ( 32 / 100 )
+[LOG] 15:46:08 Streamer data scrapped.
+[LOG] 15:46:09 Games data scrapped.
+[LOG] 15:46:09 Scrapper started for:  Fortnite ( 33 / 100 )
+[LOG] 15:46:09 Streamer data scrapped.
+[LOG] 15:46:09 Games data scrapped.
+[LOG] 15:46:09 Scrapper started for:  Robleis ( 34 / 100 )
+[LOG] 15:46:09 Streamer data scrapped.
+[LOG] 15:46:09 Games data scrapped.
+[LOG] 15:46:09 Scrapper started for:  elded ( 35 / 100 )
+[LOG] 15:46:10 Streamer data scrapped.
+[LOG] 15:46:10 Games data scrapped.
+[LOG] 15:46:10 Scrapper started for:  Bugha ( 36 / 100 )
+[LOG] 15:46:10 Streamer data scrapped.
+[LOG] 15:46:10 Games data scrapped.
+[LOG] 15:46:10 Scrapper started for:  moistcr1tikal ( 37 / 100 )
+[LOG] 15:46:11 Streamer data scrapped.
+[LOG] 15:46:11 Games data scrapped.
+[LOG] 15:46:11 Scrapper started for:  MontanaBlack88 ( 38 / 100 )
+[LOG] 15:46:11 Streamer data scrapped.
+[LOG] 15:46:11 Games data scrapped.
+[LOG] 15:46:11 Scrapper started for:  loltyler1 ( 39 / 100 )
+[LOG] 15:46:11 Streamer data scrapped.
+[LOG] 15:46:12 Games data scrapped.
+[LOG] 15:46:12 Scrapper started for:  NickEh30 ( 40 / 100 )
+[LOG] 15:46:12 Streamer data scrapped.
+[LOG] 15:46:12 Games data scrapped.
+[LOG] 15:46:12 Scrapper started for:  Tubbo ( 41 / 100 )
+[LOG] 15:46:12 Streamer data scrapped.
+[LOG] 15:46:13 Games data scrapped.
+[LOG] 15:46:13 Scrapper started for:  Jynxzi ( 42 / 100 )
+[LOG] 15:46:13 Streamer data scrapped.
+[LOG] 15:46:13 Games data scrapped.
+[LOG] 15:46:13 Scrapper started for:  loud_coringa ( 43 / 100 )
+[LOG] 15:46:13 Streamer data scrapped.
+[LOG] 15:46:14 Games data scrapped.
+[LOG] 15:46:14 Scrapper started for:  GeorgeNotFound ( 44 / 100 )
+[LOG] 15:46:14 Streamer data scrapped.
+[LOG] 15:46:14 Games data scrapped.
+[LOG] 15:46:14 Scrapper started for:  Squeezie ( 45 / 100 )
+[LOG] 15:46:14 Streamer data scrapped.
+[LOG] 15:46:14 Games data scrapped.
+[LOG] 15:46:14 Scrapper started for:  SLAKUN10 ( 46 / 100 )
+[LOG] 15:46:15 Streamer data scrapped.
+[LOG] 15:46:15 Games data scrapped.
+[LOG] 15:46:15 Scrapper started for:  dakotaz ( 47 / 100 )
+[LOG] 15:46:15 Streamer data scrapped.
+[LOG] 15:46:15 Games data scrapped.
+[LOG] 15:46:15 Scrapper started for:  WilburSoot ( 48 / 100 )
+[LOG] 15:46:15 Streamer data scrapped.
+[LOG] 15:46:16 Games data scrapped.
+[LOG] 15:46:16 Scrapper started for:  Elraenn ( 49 / 100 )
+[LOG] 15:46:16 Streamer data scrapped.
+[LOG] 15:46:16 Games data scrapped.
+[LOG] 15:46:16 Scrapper started for:  QuackityToo ( 50 / 100 )
+[LOG] 15:46:16 Streamer data scrapped.
+[LOG] 15:46:17 Games data scrapped.
+[LOG] 15:46:17 Scrapper started for:  Carreraaa ( 51 / 100 )
+[LOG] 15:46:17 Streamer data scrapped.
+[LOG] 15:46:17 Games data scrapped.
+[LOG] 15:46:17 Scrapper started for:  DrLupo ( 52 / 100 )
+[LOG] 15:46:17 Streamer data scrapped.
+[LOG] 15:46:18 Games data scrapped.
+[LOG] 15:46:18 Scrapper started for:  RanbooLive ( 53 / 100 )
+[LOG] 15:46:18 Streamer data scrapped.
+[LOG] 15:46:18 Games data scrapped.
+[LOG] 15:46:18 Scrapper started for:  Fresh ( 54 / 100 )
+[LOG] 15:46:18 Streamer data scrapped.
+[LOG] 15:46:18 Games data scrapped.
+[LOG] 15:46:18 Scrapper started for:  Philza ( 55 / 100 )
+[LOG] 15:46:19 Streamer data scrapped.
+[LOG] 15:46:19 Games data scrapped.
+[LOG] 15:46:19 Scrapper started for:  Gotaga ( 56 / 100 )
+[LOG] 15:46:19 Streamer data scrapped.
+[LOG] 15:46:19 Games data scrapped.
+[LOG] 15:46:19 Scrapper started for:  VALORANT ( 57 / 100 )
+[LOG] 15:46:19 Streamer data scrapped.
+[LOG] 15:46:20 Games data scrapped.
+[LOG] 15:46:20 Scrapper started for:  RocketLeague ( 58 / 100 )
+[LOG] 15:46:20 Streamer data scrapped.
+[LOG] 15:46:20 Games data scrapped.
+[LOG] 15:46:20 Scrapper started for:  DaequanWoco ( 59 / 100 )
+[LOG] 15:46:20 Streamer data scrapped.
+[LOG] 15:46:21 Games data scrapped.
+[LOG] 15:46:21 Scrapper started for:  Gaules ( 60 / 100 )
+[LOG] 15:46:21 Streamer data scrapped.
+[LOG] 15:46:21 Games data scrapped.
+[LOG] 15:46:21 Scrapper started for:  MissaSinfonia ( 61 / 100 )
+[LOG] 15:46:21 Streamer data scrapped.
+[LOG] 15:46:22 Games data scrapped.
+[LOG] 15:46:22 Scrapper started for:  IlloJuan ( 62 / 100 )
+[LOG] 15:46:22 Streamer data scrapped.
+[LOG] 15:46:22 Games data scrapped.
+[LOG] 15:46:22 Scrapper started for:  benjyfishy ( 63 / 100 )
+[LOG] 15:46:22 Streamer data scrapped.
+[LOG] 15:46:22 Games data scrapped.
+[LOG] 15:46:22 Scrapper started for:  MrSavage ( 64 / 100 )
+[LOG] 15:46:23 Streamer data scrapped.
+[LOG] 15:46:23 Games data scrapped.
+[LOG] 15:46:23 Scrapper started for:  Symfuhny ( 65 / 100 )
+[LOG] 15:46:23 Streamer data scrapped.
+[LOG] 15:46:23 Games data scrapped.
+[LOG] 15:46:23 Scrapper started for:  Sykkuno ( 66 / 100 )
+[LOG] 15:46:24 Streamer data scrapped.
+[LOG] 15:46:24 Games data scrapped.
+[LOG] 15:46:24 Scrapper started for:  elxokas ( 67 / 100 )
+[LOG] 15:46:24 Streamer data scrapped.
+[LOG] 15:46:24 Games data scrapped.
+[LOG] 15:46:24 Scrapper started for:  buster ( 68 / 100 )
+[LOG] 15:46:25 Streamer data scrapped.
+[LOG] 15:46:25 Games data scrapped.
+[LOG] 15:46:25 Scrapper started for:  coscu ( 69 / 100 )
+[LOG] 15:46:25 Streamer data scrapped.
+[LOG] 15:46:25 Games data scrapped.
+[LOG] 15:46:25 Scrapper started for:  Faker ( 70 / 100 )
+[LOG] 15:46:25 Streamer data scrapped.
+[LOG] 15:46:26 Games data scrapped.
+[LOG] 15:46:26 Scrapper started for:  casimito ( 71 / 100 )
+[LOG] 15:46:26 Streamer data scrapped.
+[LOG] 15:46:26 Games data scrapped.
+[LOG] 15:46:26 Scrapper started for:  TenZ ( 72 / 100 )
+[LOG] 15:46:26 Streamer data scrapped.
+[LOG] 15:46:27 Games data scrapped.
+[LOG] 15:46:27 Scrapper started for:  NOBRU ( 73 / 100 )
+[LOG] 15:46:27 Streamer data scrapped.
+[LOG] 15:46:27 Games data scrapped.
+[LOG] 15:46:27 Scrapper started for:  Castro_1021 ( 74 / 100 )
+[LOG] 15:46:27 Streamer data scrapped.
+[LOG] 15:46:27 Games data scrapped.
+[LOG] 15:46:27 Scrapper started for:  s1mple ( 75 / 100 )
+[LOG] 15:46:28 Streamer data scrapped.
+[LOG] 15:46:28 Games data scrapped.
+[LOG] 15:46:28 Scrapper started for:  karljacobs ( 76 / 100 )
+[LOG] 15:46:28 Streamer data scrapped.
+[LOG] 15:46:28 Games data scrapped.
+[LOG] 15:46:28 Scrapper started for:  Trymacs ( 77 / 100 )
+[LOG] 15:46:28 Streamer data scrapped.
+[LOG] 15:46:29 Games data scrapped.
+[LOG] 15:46:29 Scrapper started for:  Asmongold ( 78 / 100 )
+[LOG] 15:46:29 Streamer data scrapped.
+[LOG] 15:46:29 Games data scrapped.
+[LOG] 15:46:29 Scrapper started for:  easportsfc ( 79 / 100 )
+[LOG] 15:46:29 Streamer data scrapped.
+[LOG] 15:46:30 Games data scrapped.
+[LOG] 15:46:30 Scrapper started for:  Fernanfloo ( 80 / 100 )
+[LOG] 15:46:30 Streamer data scrapped.
+[LOG] 15:46:30 Games data scrapped.
+[LOG] 15:46:30 Scrapper started for:  caseoh_ ( 81 / 100 )
+[LOG] 15:46:30 Streamer data scrapped.
+[LOG] 15:46:30 Games data scrapped.
+[LOG] 15:46:30 Scrapper started for:  Cellbit ( 82 / 100 )
+[LOG] 15:46:31 Streamer data scrapped.
+[LOG] 15:46:31 Games data scrapped.
+[LOG] 15:46:31 Scrapper started for:  Staryuuki ( 83 / 100 )
+[LOG] 15:46:31 Streamer data scrapped.
+[LOG] 15:46:31 Games data scrapped.
+[LOG] 15:46:31 Scrapper started for:  xCry ( 84 / 100 )
+[LOG] 15:46:32 Streamer data scrapped.
+[LOG] 15:46:32 Games data scrapped.
+[LOG] 15:46:32 Scrapper started for:  Alexby11 ( 85 / 100 )
+[LOG] 15:46:32 Streamer data scrapped.
+[LOG] 15:46:32 Games data scrapped.
+[LOG] 15:46:32 Scrapper started for:  Sapnap ( 86 / 100 )
+[LOG] 15:46:32 Streamer data scrapped.
+[LOG] 15:46:33 Games data scrapped.
+[LOG] 15:46:33 Scrapper started for:  IamCristinini ( 87 / 100 )
+[LOG] 15:46:33 Streamer data scrapped.
+[LOG] 15:46:33 Games data scrapped.
+[LOG] 15:46:33 Scrapper started for:  gabelulz ( 88 / 100 )
+[LOG] 15:46:33 Streamer data scrapped.
+[LOG] 15:46:34 Games data scrapped.
+[LOG] 15:46:34 Scrapper started for:  x2Twins ( 89 / 100 )
+[LOG] 15:46:34 Streamer data scrapped.
+[LOG] 15:46:34 Games data scrapped.
+[LOG] 15:46:34 Scrapper started for:  biyin_ ( 90 / 100 )
+[LOG] 15:46:34 Streamer data scrapped.
+[LOG] 15:46:35 Games data scrapped.
+[LOG] 15:46:35 Scrapper started for:  mogulmoves ( 91 / 100 )
+[LOG] 15:46:35 Streamer data scrapped.
+[LOG] 15:46:35 Games data scrapped.
+[LOG] 15:46:35 Scrapper started for:  Syndicate ( 92 / 100 )
+[LOG] 15:46:35 Streamer data scrapped.
+[LOG] 15:46:36 Games data scrapped.
+[LOG] 15:46:36 Scrapper started for:  Aydan ( 93 / 100 )
+[LOG] 15:46:36 Streamer data scrapped.
+[LOG] 15:46:36 Games data scrapped.
+[LOG] 15:46:36 Scrapper started for:  kingsleague ( 94 / 100 )
+[LOG] 15:46:36 Streamer data scrapped.
+[LOG] 15:46:36 Games data scrapped.
+[LOG] 15:46:36 Scrapper started for:  tarik ( 95 / 100 )
+[LOG] 15:46:36 Streamer data scrapped.
+[LOG] 15:46:37 Games data scrapped.
+[LOG] 15:46:37 Scrapper started for:  stableronaldo ( 96 / 100 )
+[LOG] 15:46:37 Streamer data scrapped.
+[LOG] 15:46:37 Games data scrapped.
+[LOG] 15:46:37 Scrapper started for:  Jelty ( 97 / 100 )
+[LOG] 15:46:37 Streamer data scrapped.
+[LOG] 15:46:38 Games data scrapped.
+[LOG] 15:46:38 Scrapper started for:  LIRIK ( 98 / 100 )
+[LOG] 15:46:38 Streamer data scrapped.
+[LOG] 15:46:38 Games data scrapped.
+[LOG] 15:46:38 Scrapper started for:  LOLITOFDEZ ( 99 / 100 )
+[LOG] 15:46:38 Streamer data scrapped.
+[LOG] 15:46:39 Games data scrapped.
+[LOG] 15:46:39 Scrapper started for:  Loserfruit ( 100 / 100 )
+[LOG] 15:46:39 Streamer data scrapped.
+[LOG] 15:46:39 Games data scrapped.
+[LOG] 15:46:39 Scrapper finished.
+[LOG] 15:46:39 Data written to the file.
