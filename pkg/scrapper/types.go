@@ -20,6 +20,7 @@ type StreamerData struct {
 type GamePlayed struct {
 	GameName       string `json:"gameName"`
 	StreamTime     int    `json:"streamTime"`
+	TotalWatchTime int    `json:"totalWatchTime"`
 	AverageViewers int    `json:"averageViewers"`
 	PeakViewers    int    `json:"peakViewers"`
 }
