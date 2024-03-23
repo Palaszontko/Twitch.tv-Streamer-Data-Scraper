@@ -24,6 +24,9 @@ type GamePlayed struct {
 	PeakViewers    int    `json:"peakViewers"`
 }
 
+/*
+This function sets the value of the field in StreamerData struct.
+*/
 func setFiled(streamer *StreamerData, field string, value interface{}) {
 	streamerReflect := reflect.ValueOf(streamer).Elem()
 	fieldReflect := streamerReflect.FieldByName(field)
