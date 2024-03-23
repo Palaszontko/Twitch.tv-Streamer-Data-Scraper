@@ -42,7 +42,7 @@ func Start() {
 
 	logger.Println("Scrapper finished.")
 	outputWriter(streamersDataArray, sessionId)
-
+	csvWriter(streamersDataArray, sessionId)
 }
 
 /*
