@@ -7,7 +7,7 @@ import (
 )
 
 func outputWriter(streamersDataArray []StreamerData, sessionId string) {
-	file, err := os.OpenFile("data/output/output_" + sessionId + ".json", os.O_CREATE|os.O_APPEND|os.O_WRONLY, 0644)
+	file, err := os.OpenFile("data/output/json/output_" + sessionId + ".json", os.O_CREATE|os.O_APPEND|os.O_WRONLY, 0644)
 
 	if err != nil {
 		logger.Println("Error while opening the file: ", err)
